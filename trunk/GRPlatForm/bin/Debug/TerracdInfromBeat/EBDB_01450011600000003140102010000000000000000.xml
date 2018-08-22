@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<EBD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EBDVersion>1.0</EBDVersion>
+  <EBDID>01450011600000003140102010000000000000000</EBDID>
+  <EBDType>ConnectionCheck</EBDType>
+  <SRC>
+    <EBRID>45001160000000314010201</EBRID>
+    <URL>http://192.168.4.109:7500</URL>
+  </SRC>
+  <DEST>
+    <EBRID>45001160000000101010101</EBRID>
+  </DEST>
+  <EBDTime>2018-08-21 21:52:54</EBDTime>
+  <ConnectionCheck>
+    <RptTime>2018-08-21 21:52:54</RptTime>
+  </ConnectionCheck>
+</EBD>

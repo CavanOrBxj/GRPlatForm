@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<EBD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EBDVersion>1.0</EBDVersion>
+  <EBDID>10450011600000003140102010000000000000011</EBDID>
+  <EBDType>EBMBrdLog</EBDType>
+  <SRC>
+    <EBRID>45001160000000314010201</EBRID>
+    <URL>http://192.168.4.109:7500</URL>
+  </SRC>
+  <EBDTime>2018-08-22 14:20:45</EBDTime>
+  <EBMBrdLog>
+    <EBMBrdItem>
+      <EBM>
+        <EBMID>233000000000001010101012018080001</EBMID>
+        <MsgContent>
+          <LanguageCode>zho</LanguageCode>
+          <MsgTitle>音频演练</MsgTitle>
+          <MsgDesc />
+          <AreaCode>500100000000</AreaCode>
+        </MsgContent>
+      </EBM>
+      <BrdStateCode>3</BrdStateCode>
+      <BrdStateDesc>播发成功</BrdStateDesc>
+    </EBMBrdItem>
+    <EBMBrdItem>
+      <EBM>
+        <EBMID>23400000000000103010101201806050007</EBMID>
+        <MsgContent>
+          <LanguageCode>zho</LanguageCode>
+          <MsgTitle>台风蓝色预警</MsgTitle>
+          <MsgDesc />
+          <AreaCode>500116002000</AreaCode>
+        </MsgContent>
+      </EBM>
+      <BrdStateCode>2</BrdStateCode>
+      <BrdStateDesc>播发中</BrdStateDesc>
+    </EBMBrdItem>
+  </EBMBrdLog>
+</EBD>

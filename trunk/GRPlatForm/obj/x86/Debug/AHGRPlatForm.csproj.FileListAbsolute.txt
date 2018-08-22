@@ -1,0 +1,1042 @@
+F:\Work\sources\JSDJ\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe.config
+F:\Work\sources\JSDJ\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe
+F:\Work\sources\JSDJ\trunk\GRPlatForm\bin\Debug\HBPlatForm.pdb
+F:\Work\sources\JSDJ\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csprojResolveAssemblyReference.cache
+F:\Work\sources\JSDJ\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlay.resources
+F:\Work\sources\JSDJ\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlayer.resources
+F:\Work\sources\JSDJ\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ComSetForm.resources
+F:\Work\sources\JSDJ\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.EBMInfo.resources
+F:\Work\sources\JSDJ\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.InfoSetForm.resources
+F:\Work\sources\JSDJ\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.frmLogin.resources
+F:\Work\sources\JSDJ\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.mainForm.resources
+F:\Work\sources\JSDJ\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.Properties.Resources.resources
+F:\Work\sources\JSDJ\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerForm.resources
+F:\Work\sources\JSDJ\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerIPSetForm.resources
+F:\Work\sources\JSDJ\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerSetForm.resources
+F:\Work\sources\JSDJ\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.TmpFolderSetForm.resources
+F:\Work\sources\JSDJ\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csproj.GenerateResource.Cache
+F:\Work\sources\JSDJ\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.exe
+F:\Work\sources\JSDJ\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.pdb
+F:\fcbwdevexpress\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe.config
+F:\fcbwdevexpress\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.exe
+F:\fcbwdevexpress\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.pdb
+F:\fcbwdevexpress\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe
+F:\fcbwdevexpress\trunk\GRPlatForm\bin\Debug\HBPlatForm.pdb
+F:\fcbwdevexpress\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csprojResolveAssemblyReference.cache
+F:\fcbwdevexpress\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlay.resources
+F:\fcbwdevexpress\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlayer.resources
+F:\fcbwdevexpress\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ComSetForm.resources
+F:\fcbwdevexpress\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.EBMInfo.resources
+F:\fcbwdevexpress\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.InfoSetForm.resources
+F:\fcbwdevexpress\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.frmLogin.resources
+F:\fcbwdevexpress\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.mainForm.resources
+F:\fcbwdevexpress\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.Properties.Resources.resources
+F:\fcbwdevexpress\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerForm.resources
+F:\fcbwdevexpress\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerIPSetForm.resources
+F:\fcbwdevexpress\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerSetForm.resources
+F:\fcbwdevexpress\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.TmpFolderSetForm.resources
+F:\fcbwdevexpress\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csproj.GenerateResource.Cache
+F:\fcbwdevexpress\trunk\GRPlatForm\bin\Debug\DevExpress.Data.v13.2.dll
+F:\fcbwdevexpress\trunk\GRPlatForm\bin\Debug\DevExpress.Utils.v13.2.dll
+F:\fcbwdevexpress\trunk\GRPlatForm\bin\Debug\DevExpress.XtraBars.v13.2.dll
+F:\fcbwdevexpress\trunk\GRPlatForm\bin\Debug\DevExpress.XtraEditors.v13.2.dll
+F:\fcbwdevexpress\trunk\GRPlatForm\bin\Debug\DevExpress.Printing.v13.2.Core.dll
+F:\fcbwdevexpress\trunk\GRPlatForm\bin\Debug\DevExpress.Sparkline.v13.2.Core.dll
+F:\fcbwdevexpress\trunk\GRPlatForm\bin\Debug\DevExpress.Data.v13.2.xml
+F:\fcbwdevexpress\trunk\GRPlatForm\bin\Debug\DevExpress.Utils.v13.2.xml
+F:\fcbwdevexpress\trunk\GRPlatForm\bin\Debug\DevExpress.XtraBars.v13.2.xml
+F:\fcbwdevexpress\trunk\GRPlatForm\bin\Debug\DevExpress.XtraEditors.v13.2.xml
+F:\fcbwdevexpress\trunk\GRPlatForm\bin\Debug\DevExpress.Printing.v13.2.Core.xml
+F:\fcbwdevexpress\trunk\GRPlatForm\bin\Debug\DevExpress.Sparkline.v13.2.Core.xml
+F:\fcbwdevexpress\trunk\GRPlatForm\bin\Debug\de\DevExpress.Data.v13.2.resources.dll
+F:\fcbwdevexpress\trunk\GRPlatForm\bin\Debug\es\DevExpress.Data.v13.2.resources.dll
+F:\fcbwdevexpress\trunk\GRPlatForm\bin\Debug\ja\DevExpress.Data.v13.2.resources.dll
+F:\fcbwdevexpress\trunk\GRPlatForm\bin\Debug\ru\DevExpress.Data.v13.2.resources.dll
+F:\fcbwdevexpress\trunk\GRPlatForm\bin\Debug\de\DevExpress.Utils.v13.2.resources.dll
+F:\fcbwdevexpress\trunk\GRPlatForm\bin\Debug\es\DevExpress.Utils.v13.2.resources.dll
+F:\fcbwdevexpress\trunk\GRPlatForm\bin\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+F:\fcbwdevexpress\trunk\GRPlatForm\bin\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+F:\fcbwdevexpress\trunk\GRPlatForm\bin\Debug\de\DevExpress.XtraBars.v13.2.resources.dll
+F:\fcbwdevexpress\trunk\GRPlatForm\bin\Debug\es\DevExpress.XtraBars.v13.2.resources.dll
+F:\fcbwdevexpress\trunk\GRPlatForm\bin\Debug\ja\DevExpress.XtraBars.v13.2.resources.dll
+F:\fcbwdevexpress\trunk\GRPlatForm\bin\Debug\ru\DevExpress.XtraBars.v13.2.resources.dll
+F:\fcbwdevexpress\trunk\GRPlatForm\bin\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+F:\fcbwdevexpress\trunk\GRPlatForm\bin\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+F:\fcbwdevexpress\trunk\GRPlatForm\bin\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+F:\fcbwdevexpress\trunk\GRPlatForm\bin\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+F:\fcbwdevexpress\trunk\GRPlatForm\bin\Debug\de\DevExpress.Printing.v13.2.Core.resources.dll
+F:\fcbwdevexpress\trunk\GRPlatForm\bin\Debug\es\DevExpress.Printing.v13.2.Core.resources.dll
+F:\fcbwdevexpress\trunk\GRPlatForm\bin\Debug\ja\DevExpress.Printing.v13.2.Core.resources.dll
+F:\fcbwdevexpress\trunk\GRPlatForm\bin\Debug\ru\DevExpress.Printing.v13.2.Core.resources.dll
+F:\fcbwdevexpress\trunk\GRPlatForm\bin\Debug\ru\DevExpress.Sparkline.v13.2.Core.resources.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe.config
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.exe
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.pdb
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk\GRPlatForm\bin\Debug\HBPlatForm.pdb
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk\GRPlatForm\bin\Debug\DevExpress.Data.v13.2.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk\GRPlatForm\bin\Debug\DevExpress.Utils.v13.2.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk\GRPlatForm\bin\Debug\DevExpress.XtraBars.v13.2.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk\GRPlatForm\bin\Debug\DevExpress.XtraEditors.v13.2.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk\GRPlatForm\bin\Debug\DevExpress.Data.v13.2.xml
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk\GRPlatForm\bin\Debug\DevExpress.Utils.v13.2.xml
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk\GRPlatForm\bin\Debug\DevExpress.XtraBars.v13.2.xml
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk\GRPlatForm\bin\Debug\DevExpress.XtraEditors.v13.2.xml
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk\GRPlatForm\bin\Debug\de\DevExpress.Data.v13.2.resources.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk\GRPlatForm\bin\Debug\es\DevExpress.Data.v13.2.resources.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk\GRPlatForm\bin\Debug\ja\DevExpress.Data.v13.2.resources.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk\GRPlatForm\bin\Debug\ru\DevExpress.Data.v13.2.resources.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk\GRPlatForm\bin\Debug\de\DevExpress.Utils.v13.2.resources.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk\GRPlatForm\bin\Debug\es\DevExpress.Utils.v13.2.resources.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk\GRPlatForm\bin\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk\GRPlatForm\bin\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk\GRPlatForm\bin\Debug\de\DevExpress.XtraBars.v13.2.resources.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk\GRPlatForm\bin\Debug\es\DevExpress.XtraBars.v13.2.resources.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk\GRPlatForm\bin\Debug\ja\DevExpress.XtraBars.v13.2.resources.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk\GRPlatForm\bin\Debug\ru\DevExpress.XtraBars.v13.2.resources.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk\GRPlatForm\bin\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk\GRPlatForm\bin\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk\GRPlatForm\bin\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk\GRPlatForm\bin\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csprojResolveAssemblyReference.cache
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlay.resources
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlayer.resources
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ComSetForm.resources
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.EBMInfo.resources
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.InfoSetForm.resources
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.frmLogin.resources
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.mainForm.resources
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.Properties.Resources.resources
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerForm.resources
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerIPSetForm.resources
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerSetForm.resources
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.TmpFolderSetForm.resources
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csproj.GenerateResource.Cache
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.exe.licenses
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk预计\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe.config
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk预计\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.exe
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk预计\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.pdb
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk预计\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk预计\trunk\GRPlatForm\bin\Debug\HBPlatForm.pdb
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk预计\trunk\GRPlatForm\bin\Debug\DevExpress.Data.v13.2.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk预计\trunk\GRPlatForm\bin\Debug\DevExpress.Utils.v13.2.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk预计\trunk\GRPlatForm\bin\Debug\DevExpress.XtraBars.v13.2.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk预计\trunk\GRPlatForm\bin\Debug\DevExpress.XtraEditors.v13.2.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk预计\trunk\GRPlatForm\bin\Debug\DevExpress.Data.v13.2.xml
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk预计\trunk\GRPlatForm\bin\Debug\DevExpress.Utils.v13.2.xml
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk预计\trunk\GRPlatForm\bin\Debug\DevExpress.XtraBars.v13.2.xml
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk预计\trunk\GRPlatForm\bin\Debug\DevExpress.XtraEditors.v13.2.xml
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk预计\trunk\GRPlatForm\bin\Debug\de\DevExpress.Data.v13.2.resources.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk预计\trunk\GRPlatForm\bin\Debug\es\DevExpress.Data.v13.2.resources.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk预计\trunk\GRPlatForm\bin\Debug\ja\DevExpress.Data.v13.2.resources.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk预计\trunk\GRPlatForm\bin\Debug\ru\DevExpress.Data.v13.2.resources.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk预计\trunk\GRPlatForm\bin\Debug\de\DevExpress.Utils.v13.2.resources.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk预计\trunk\GRPlatForm\bin\Debug\es\DevExpress.Utils.v13.2.resources.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk预计\trunk\GRPlatForm\bin\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk预计\trunk\GRPlatForm\bin\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk预计\trunk\GRPlatForm\bin\Debug\de\DevExpress.XtraBars.v13.2.resources.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk预计\trunk\GRPlatForm\bin\Debug\es\DevExpress.XtraBars.v13.2.resources.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk预计\trunk\GRPlatForm\bin\Debug\ja\DevExpress.XtraBars.v13.2.resources.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk预计\trunk\GRPlatForm\bin\Debug\ru\DevExpress.XtraBars.v13.2.resources.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk预计\trunk\GRPlatForm\bin\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk预计\trunk\GRPlatForm\bin\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk预计\trunk\GRPlatForm\bin\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk预计\trunk\GRPlatForm\bin\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk预计\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csprojResolveAssemblyReference.cache
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk预计\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlay.resources
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk预计\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlayer.resources
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk预计\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ComSetForm.resources
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk预计\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.EBMInfo.resources
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk预计\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.InfoSetForm.resources
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk预计\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.frmLogin.resources
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk预计\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.mainForm.resources
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk预计\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.Properties.Resources.resources
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk预计\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerForm.resources
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk预计\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerIPSetForm.resources
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk预计\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerSetForm.resources
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk预计\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.TmpFolderSetForm.resources
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk预计\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csproj.GenerateResource.Cache
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\trunk预计\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.exe.licenses
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\丹阳对接\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe.config
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\丹阳对接\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.exe
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\丹阳对接\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.pdb
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\丹阳对接\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\丹阳对接\trunk\GRPlatForm\bin\Debug\HBPlatForm.pdb
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\丹阳对接\trunk\GRPlatForm\bin\Debug\DevExpress.Data.v13.2.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\丹阳对接\trunk\GRPlatForm\bin\Debug\DevExpress.Utils.v13.2.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\丹阳对接\trunk\GRPlatForm\bin\Debug\DevExpress.XtraBars.v13.2.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\丹阳对接\trunk\GRPlatForm\bin\Debug\DevExpress.XtraEditors.v13.2.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\丹阳对接\trunk\GRPlatForm\bin\Debug\DevExpress.Data.v13.2.xml
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\丹阳对接\trunk\GRPlatForm\bin\Debug\DevExpress.Utils.v13.2.xml
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\丹阳对接\trunk\GRPlatForm\bin\Debug\DevExpress.XtraBars.v13.2.xml
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\丹阳对接\trunk\GRPlatForm\bin\Debug\DevExpress.XtraEditors.v13.2.xml
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\丹阳对接\trunk\GRPlatForm\bin\Debug\de\DevExpress.Data.v13.2.resources.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\丹阳对接\trunk\GRPlatForm\bin\Debug\es\DevExpress.Data.v13.2.resources.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\丹阳对接\trunk\GRPlatForm\bin\Debug\ja\DevExpress.Data.v13.2.resources.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\丹阳对接\trunk\GRPlatForm\bin\Debug\ru\DevExpress.Data.v13.2.resources.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\丹阳对接\trunk\GRPlatForm\bin\Debug\de\DevExpress.Utils.v13.2.resources.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\丹阳对接\trunk\GRPlatForm\bin\Debug\es\DevExpress.Utils.v13.2.resources.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\丹阳对接\trunk\GRPlatForm\bin\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\丹阳对接\trunk\GRPlatForm\bin\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\丹阳对接\trunk\GRPlatForm\bin\Debug\de\DevExpress.XtraBars.v13.2.resources.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\丹阳对接\trunk\GRPlatForm\bin\Debug\es\DevExpress.XtraBars.v13.2.resources.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\丹阳对接\trunk\GRPlatForm\bin\Debug\ja\DevExpress.XtraBars.v13.2.resources.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\丹阳对接\trunk\GRPlatForm\bin\Debug\ru\DevExpress.XtraBars.v13.2.resources.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\丹阳对接\trunk\GRPlatForm\bin\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\丹阳对接\trunk\GRPlatForm\bin\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\丹阳对接\trunk\GRPlatForm\bin\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\丹阳对接\trunk\GRPlatForm\bin\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\丹阳对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlay.resources
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\丹阳对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlayer.resources
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\丹阳对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ComSetForm.resources
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\丹阳对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.EBMInfo.resources
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\丹阳对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.InfoSetForm.resources
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\丹阳对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.frmLogin.resources
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\丹阳对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.mainForm.resources
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\丹阳对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.Properties.Resources.resources
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\丹阳对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerForm.resources
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\丹阳对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerIPSetForm.resources
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\丹阳对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerSetForm.resources
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\丹阳对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.TmpFolderSetForm.resources
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\丹阳对接\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csproj.GenerateResource.Cache
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\丹阳对接\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.exe.licenses
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\丹阳对接2017-9-20\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe.config
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\丹阳对接2017-9-20\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.exe
+E:\Liuyy\对接2017910\fcbwdevexpress库vs导入\丹阳对接2017-9-20\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.pdb
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe.config
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.exe
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.pdb
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\bin\Debug\HBPlatForm.pdb
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\bin\Debug\DevExpress.Data.v13.2.dll
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\bin\Debug\DevExpress.Utils.v13.2.dll
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\bin\Debug\DevExpress.XtraBars.v13.2.dll
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\bin\Debug\DevExpress.XtraEditors.v13.2.dll
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\bin\Debug\DevExpress.Printing.v13.2.Core.dll
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\bin\Debug\DevExpress.Sparkline.v13.2.Core.dll
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\bin\Debug\DevExpress.Data.v13.2.xml
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\bin\Debug\DevExpress.Utils.v13.2.xml
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\bin\Debug\DevExpress.XtraBars.v13.2.xml
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\bin\Debug\DevExpress.XtraEditors.v13.2.xml
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\bin\Debug\DevExpress.Printing.v13.2.Core.xml
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\bin\Debug\DevExpress.Sparkline.v13.2.Core.xml
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\bin\Debug\de\DevExpress.Data.v13.2.resources.dll
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\bin\Debug\es\DevExpress.Data.v13.2.resources.dll
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\bin\Debug\ja\DevExpress.Data.v13.2.resources.dll
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\bin\Debug\ru\DevExpress.Data.v13.2.resources.dll
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\bin\Debug\de\DevExpress.Utils.v13.2.resources.dll
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\bin\Debug\es\DevExpress.Utils.v13.2.resources.dll
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\bin\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\bin\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\bin\Debug\de\DevExpress.XtraBars.v13.2.resources.dll
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\bin\Debug\es\DevExpress.XtraBars.v13.2.resources.dll
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\bin\Debug\ja\DevExpress.XtraBars.v13.2.resources.dll
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\bin\Debug\ru\DevExpress.XtraBars.v13.2.resources.dll
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\bin\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\bin\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\bin\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\bin\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\bin\Debug\de\DevExpress.Printing.v13.2.Core.resources.dll
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\bin\Debug\es\DevExpress.Printing.v13.2.Core.resources.dll
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\bin\Debug\ja\DevExpress.Printing.v13.2.Core.resources.dll
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\bin\Debug\ru\DevExpress.Printing.v13.2.Core.resources.dll
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\bin\Debug\ru\DevExpress.Sparkline.v13.2.Core.resources.dll
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlay.resources
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlayer.resources
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ComSetForm.resources
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.EBMInfo.resources
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.InfoSetForm.resources
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.frmLogin.resources
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.mainForm.resources
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.Properties.Resources.resources
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerForm.resources
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerIPSetForm.resources
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerSetForm.resources
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.TmpFolderSetForm.resources
+D:\对接2017910\丹阳对接2017-9-20\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csproj.GenerateResource.Cache
+D:\对接2017910\泗阳对接\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe.config
+D:\对接2017910\泗阳对接\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.exe
+D:\对接2017910\泗阳对接\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.pdb
+D:\对接2017910\泗阳对接\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe
+D:\对接2017910\泗阳对接\trunk\GRPlatForm\bin\Debug\HBPlatForm.pdb
+D:\对接2017910\泗阳对接\trunk\GRPlatForm\bin\Debug\DevExpress.Data.v13.2.dll
+D:\对接2017910\泗阳对接\trunk\GRPlatForm\bin\Debug\DevExpress.Utils.v13.2.dll
+D:\对接2017910\泗阳对接\trunk\GRPlatForm\bin\Debug\DevExpress.XtraBars.v13.2.dll
+D:\对接2017910\泗阳对接\trunk\GRPlatForm\bin\Debug\DevExpress.XtraEditors.v13.2.dll
+D:\对接2017910\泗阳对接\trunk\GRPlatForm\bin\Debug\DevExpress.Printing.v13.2.Core.dll
+D:\对接2017910\泗阳对接\trunk\GRPlatForm\bin\Debug\DevExpress.Sparkline.v13.2.Core.dll
+D:\对接2017910\泗阳对接\trunk\GRPlatForm\bin\Debug\DevExpress.Data.v13.2.xml
+D:\对接2017910\泗阳对接\trunk\GRPlatForm\bin\Debug\DevExpress.Utils.v13.2.xml
+D:\对接2017910\泗阳对接\trunk\GRPlatForm\bin\Debug\DevExpress.XtraBars.v13.2.xml
+D:\对接2017910\泗阳对接\trunk\GRPlatForm\bin\Debug\DevExpress.XtraEditors.v13.2.xml
+D:\对接2017910\泗阳对接\trunk\GRPlatForm\bin\Debug\DevExpress.Printing.v13.2.Core.xml
+D:\对接2017910\泗阳对接\trunk\GRPlatForm\bin\Debug\DevExpress.Sparkline.v13.2.Core.xml
+D:\对接2017910\泗阳对接\trunk\GRPlatForm\bin\Debug\de\DevExpress.Data.v13.2.resources.dll
+D:\对接2017910\泗阳对接\trunk\GRPlatForm\bin\Debug\es\DevExpress.Data.v13.2.resources.dll
+D:\对接2017910\泗阳对接\trunk\GRPlatForm\bin\Debug\ja\DevExpress.Data.v13.2.resources.dll
+D:\对接2017910\泗阳对接\trunk\GRPlatForm\bin\Debug\ru\DevExpress.Data.v13.2.resources.dll
+D:\对接2017910\泗阳对接\trunk\GRPlatForm\bin\Debug\de\DevExpress.Utils.v13.2.resources.dll
+D:\对接2017910\泗阳对接\trunk\GRPlatForm\bin\Debug\es\DevExpress.Utils.v13.2.resources.dll
+D:\对接2017910\泗阳对接\trunk\GRPlatForm\bin\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+D:\对接2017910\泗阳对接\trunk\GRPlatForm\bin\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+D:\对接2017910\泗阳对接\trunk\GRPlatForm\bin\Debug\de\DevExpress.XtraBars.v13.2.resources.dll
+D:\对接2017910\泗阳对接\trunk\GRPlatForm\bin\Debug\es\DevExpress.XtraBars.v13.2.resources.dll
+D:\对接2017910\泗阳对接\trunk\GRPlatForm\bin\Debug\ja\DevExpress.XtraBars.v13.2.resources.dll
+D:\对接2017910\泗阳对接\trunk\GRPlatForm\bin\Debug\ru\DevExpress.XtraBars.v13.2.resources.dll
+D:\对接2017910\泗阳对接\trunk\GRPlatForm\bin\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+D:\对接2017910\泗阳对接\trunk\GRPlatForm\bin\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+D:\对接2017910\泗阳对接\trunk\GRPlatForm\bin\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+D:\对接2017910\泗阳对接\trunk\GRPlatForm\bin\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+D:\对接2017910\泗阳对接\trunk\GRPlatForm\bin\Debug\de\DevExpress.Printing.v13.2.Core.resources.dll
+D:\对接2017910\泗阳对接\trunk\GRPlatForm\bin\Debug\es\DevExpress.Printing.v13.2.Core.resources.dll
+D:\对接2017910\泗阳对接\trunk\GRPlatForm\bin\Debug\ja\DevExpress.Printing.v13.2.Core.resources.dll
+D:\对接2017910\泗阳对接\trunk\GRPlatForm\bin\Debug\ru\DevExpress.Printing.v13.2.Core.resources.dll
+D:\对接2017910\泗阳对接\trunk\GRPlatForm\bin\Debug\ru\DevExpress.Sparkline.v13.2.Core.resources.dll
+D:\对接2017910\泗阳对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlay.resources
+D:\对接2017910\泗阳对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlayer.resources
+D:\对接2017910\泗阳对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.EBMInfo.resources
+D:\对接2017910\泗阳对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.InfoSetForm.resources
+D:\对接2017910\泗阳对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.frmLogin.resources
+D:\对接2017910\泗阳对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.mainForm.resources
+D:\对接2017910\泗阳对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.Properties.Resources.resources
+D:\对接2017910\泗阳对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerForm.resources
+D:\对接2017910\泗阳对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerIPSetForm.resources
+D:\对接2017910\泗阳对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerSetForm.resources
+D:\对接2017910\泗阳对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.TmpFolderSetForm.resources
+D:\对接2017910\泗阳对接\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csproj.GenerateResource.Cache
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe.config
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.exe
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.pdb
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\bin\Debug\HBPlatForm.pdb
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\bin\Debug\DevExpress.Data.v13.2.dll
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\bin\Debug\DevExpress.Utils.v13.2.dll
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\bin\Debug\DevExpress.XtraBars.v13.2.dll
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\bin\Debug\DevExpress.XtraEditors.v13.2.dll
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\bin\Debug\DevExpress.Printing.v13.2.Core.dll
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\bin\Debug\DevExpress.Sparkline.v13.2.Core.dll
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\bin\Debug\DevExpress.Data.v13.2.xml
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\bin\Debug\DevExpress.Utils.v13.2.xml
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\bin\Debug\DevExpress.XtraBars.v13.2.xml
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\bin\Debug\DevExpress.XtraEditors.v13.2.xml
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\bin\Debug\DevExpress.Printing.v13.2.Core.xml
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\bin\Debug\DevExpress.Sparkline.v13.2.Core.xml
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\bin\Debug\de\DevExpress.Data.v13.2.resources.dll
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\bin\Debug\es\DevExpress.Data.v13.2.resources.dll
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\bin\Debug\ja\DevExpress.Data.v13.2.resources.dll
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\bin\Debug\ru\DevExpress.Data.v13.2.resources.dll
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\bin\Debug\de\DevExpress.Utils.v13.2.resources.dll
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\bin\Debug\es\DevExpress.Utils.v13.2.resources.dll
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\bin\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\bin\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\bin\Debug\de\DevExpress.XtraBars.v13.2.resources.dll
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\bin\Debug\es\DevExpress.XtraBars.v13.2.resources.dll
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\bin\Debug\ja\DevExpress.XtraBars.v13.2.resources.dll
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\bin\Debug\ru\DevExpress.XtraBars.v13.2.resources.dll
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\bin\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\bin\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\bin\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\bin\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\bin\Debug\de\DevExpress.Printing.v13.2.Core.resources.dll
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\bin\Debug\es\DevExpress.Printing.v13.2.Core.resources.dll
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\bin\Debug\ja\DevExpress.Printing.v13.2.Core.resources.dll
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\bin\Debug\ru\DevExpress.Printing.v13.2.Core.resources.dll
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\bin\Debug\ru\DevExpress.Sparkline.v13.2.Core.resources.dll
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlay.resources
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlayer.resources
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.EBMInfo.resources
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.InfoSetForm.resources
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.frmLogin.resources
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.mainForm.resources
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.Properties.Resources.resources
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerForm.resources
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerIPSetForm.resources
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerSetForm.resources
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.TmpFolderSetForm.resources
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csproj.GenerateResource.Cache
+D:\对接2017910\张家港对接2017-11-2\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csprojResolveAssemblyReference.cache
+D:\对接2017910\启东对接\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe.config
+D:\对接2017910\启东对接\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.exe
+D:\对接2017910\启东对接\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.pdb
+D:\对接2017910\启东对接\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe
+D:\对接2017910\启东对接\trunk\GRPlatForm\bin\Debug\HBPlatForm.pdb
+D:\对接2017910\启东对接\trunk\GRPlatForm\bin\Debug\DevExpress.Data.v13.2.dll
+D:\对接2017910\启东对接\trunk\GRPlatForm\bin\Debug\DevExpress.Utils.v13.2.dll
+D:\对接2017910\启东对接\trunk\GRPlatForm\bin\Debug\DevExpress.XtraBars.v13.2.dll
+D:\对接2017910\启东对接\trunk\GRPlatForm\bin\Debug\DevExpress.XtraEditors.v13.2.dll
+D:\对接2017910\启东对接\trunk\GRPlatForm\bin\Debug\DevExpress.Printing.v13.2.Core.dll
+D:\对接2017910\启东对接\trunk\GRPlatForm\bin\Debug\DevExpress.Sparkline.v13.2.Core.dll
+D:\对接2017910\启东对接\trunk\GRPlatForm\bin\Debug\DevExpress.Data.v13.2.xml
+D:\对接2017910\启东对接\trunk\GRPlatForm\bin\Debug\DevExpress.Utils.v13.2.xml
+D:\对接2017910\启东对接\trunk\GRPlatForm\bin\Debug\DevExpress.XtraBars.v13.2.xml
+D:\对接2017910\启东对接\trunk\GRPlatForm\bin\Debug\DevExpress.XtraEditors.v13.2.xml
+D:\对接2017910\启东对接\trunk\GRPlatForm\bin\Debug\DevExpress.Printing.v13.2.Core.xml
+D:\对接2017910\启东对接\trunk\GRPlatForm\bin\Debug\DevExpress.Sparkline.v13.2.Core.xml
+D:\对接2017910\启东对接\trunk\GRPlatForm\bin\Debug\de\DevExpress.Data.v13.2.resources.dll
+D:\对接2017910\启东对接\trunk\GRPlatForm\bin\Debug\es\DevExpress.Data.v13.2.resources.dll
+D:\对接2017910\启东对接\trunk\GRPlatForm\bin\Debug\ja\DevExpress.Data.v13.2.resources.dll
+D:\对接2017910\启东对接\trunk\GRPlatForm\bin\Debug\ru\DevExpress.Data.v13.2.resources.dll
+D:\对接2017910\启东对接\trunk\GRPlatForm\bin\Debug\de\DevExpress.Utils.v13.2.resources.dll
+D:\对接2017910\启东对接\trunk\GRPlatForm\bin\Debug\es\DevExpress.Utils.v13.2.resources.dll
+D:\对接2017910\启东对接\trunk\GRPlatForm\bin\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+D:\对接2017910\启东对接\trunk\GRPlatForm\bin\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+D:\对接2017910\启东对接\trunk\GRPlatForm\bin\Debug\de\DevExpress.XtraBars.v13.2.resources.dll
+D:\对接2017910\启东对接\trunk\GRPlatForm\bin\Debug\es\DevExpress.XtraBars.v13.2.resources.dll
+D:\对接2017910\启东对接\trunk\GRPlatForm\bin\Debug\ja\DevExpress.XtraBars.v13.2.resources.dll
+D:\对接2017910\启东对接\trunk\GRPlatForm\bin\Debug\ru\DevExpress.XtraBars.v13.2.resources.dll
+D:\对接2017910\启东对接\trunk\GRPlatForm\bin\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+D:\对接2017910\启东对接\trunk\GRPlatForm\bin\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+D:\对接2017910\启东对接\trunk\GRPlatForm\bin\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+D:\对接2017910\启东对接\trunk\GRPlatForm\bin\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+D:\对接2017910\启东对接\trunk\GRPlatForm\bin\Debug\de\DevExpress.Printing.v13.2.Core.resources.dll
+D:\对接2017910\启东对接\trunk\GRPlatForm\bin\Debug\es\DevExpress.Printing.v13.2.Core.resources.dll
+D:\对接2017910\启东对接\trunk\GRPlatForm\bin\Debug\ja\DevExpress.Printing.v13.2.Core.resources.dll
+D:\对接2017910\启东对接\trunk\GRPlatForm\bin\Debug\ru\DevExpress.Printing.v13.2.Core.resources.dll
+D:\对接2017910\启东对接\trunk\GRPlatForm\bin\Debug\ru\DevExpress.Sparkline.v13.2.Core.resources.dll
+D:\对接2017910\启东对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlay.resources
+D:\对接2017910\启东对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlayer.resources
+D:\对接2017910\启东对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.EBMInfo.resources
+D:\对接2017910\启东对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.InfoSetForm.resources
+D:\对接2017910\启东对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.frmLogin.resources
+D:\对接2017910\启东对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.mainForm.resources
+D:\对接2017910\启东对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.Properties.Resources.resources
+D:\对接2017910\启东对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerForm.resources
+D:\对接2017910\启东对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerIPSetForm.resources
+D:\对接2017910\启东对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerSetForm.resources
+D:\对接2017910\启东对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.TmpFolderSetForm.resources
+D:\对接2017910\启东对接\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csproj.GenerateResource.Cache
+D:\对接2017910\启东对接2017-11-10\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe.config
+D:\对接2017910\启东对接2017-11-10\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.exe
+D:\对接2017910\启东对接2017-11-10\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.pdb
+D:\毕行健在图南\广西项目\交接20171120\对接2017910\启东对接2017-11-10\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe.config
+D:\毕行健在图南\广西项目\交接20171120\对接2017910\启东对接2017-11-10\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.exe
+D:\毕行健在图南\广西项目\交接20171120\对接2017910\启东对接2017-11-10\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.pdb
+D:\毕行健在图南\广西项目\交接20171120\对接2017910\启东对接2017-11-10\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe
+D:\毕行健在图南\广西项目\交接20171120\对接2017910\启东对接2017-11-10\trunk\GRPlatForm\bin\Debug\HBPlatForm.pdb
+D:\毕行健在图南\广西项目\交接20171120\对接2017910\启东对接2017-11-10\trunk\GRPlatForm\bin\Debug\DevExpress.Printing.v13.2.Core.dll
+D:\毕行健在图南\广西项目\交接20171120\对接2017910\启东对接2017-11-10\trunk\GRPlatForm\bin\Debug\DevExpress.Sparkline.v13.2.Core.dll
+D:\毕行健在图南\广西项目\交接20171120\对接2017910\启东对接2017-11-10\trunk\GRPlatForm\bin\Debug\DevExpress.Data.v13.2.xml
+D:\毕行健在图南\广西项目\交接20171120\对接2017910\启东对接2017-11-10\trunk\GRPlatForm\bin\Debug\DevExpress.Utils.v13.2.xml
+D:\毕行健在图南\广西项目\交接20171120\对接2017910\启东对接2017-11-10\trunk\GRPlatForm\bin\Debug\DevExpress.XtraBars.v13.2.xml
+D:\毕行健在图南\广西项目\交接20171120\对接2017910\启东对接2017-11-10\trunk\GRPlatForm\bin\Debug\DevExpress.XtraEditors.v13.2.xml
+D:\毕行健在图南\广西项目\交接20171120\对接2017910\启东对接2017-11-10\trunk\GRPlatForm\bin\Debug\DevExpress.Printing.v13.2.Core.xml
+D:\毕行健在图南\广西项目\交接20171120\对接2017910\启东对接2017-11-10\trunk\GRPlatForm\bin\Debug\DevExpress.Sparkline.v13.2.Core.xml
+D:\毕行健在图南\广西项目\交接20171120\对接2017910\启东对接2017-11-10\trunk\GRPlatForm\bin\Debug\de\DevExpress.Data.v13.2.resources.dll
+D:\毕行健在图南\广西项目\交接20171120\对接2017910\启东对接2017-11-10\trunk\GRPlatForm\bin\Debug\es\DevExpress.Data.v13.2.resources.dll
+D:\毕行健在图南\广西项目\交接20171120\对接2017910\启东对接2017-11-10\trunk\GRPlatForm\bin\Debug\ja\DevExpress.Data.v13.2.resources.dll
+D:\毕行健在图南\广西项目\交接20171120\对接2017910\启东对接2017-11-10\trunk\GRPlatForm\bin\Debug\ru\DevExpress.Data.v13.2.resources.dll
+D:\毕行健在图南\广西项目\交接20171120\对接2017910\启东对接2017-11-10\trunk\GRPlatForm\bin\Debug\de\DevExpress.Utils.v13.2.resources.dll
+D:\毕行健在图南\广西项目\交接20171120\对接2017910\启东对接2017-11-10\trunk\GRPlatForm\bin\Debug\es\DevExpress.Utils.v13.2.resources.dll
+D:\毕行健在图南\广西项目\交接20171120\对接2017910\启东对接2017-11-10\trunk\GRPlatForm\bin\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+D:\毕行健在图南\广西项目\交接20171120\对接2017910\启东对接2017-11-10\trunk\GRPlatForm\bin\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+D:\毕行健在图南\广西项目\交接20171120\对接2017910\启东对接2017-11-10\trunk\GRPlatForm\bin\Debug\de\DevExpress.XtraBars.v13.2.resources.dll
+D:\毕行健在图南\广西项目\交接20171120\对接2017910\启东对接2017-11-10\trunk\GRPlatForm\bin\Debug\es\DevExpress.XtraBars.v13.2.resources.dll
+D:\毕行健在图南\广西项目\交接20171120\对接2017910\启东对接2017-11-10\trunk\GRPlatForm\bin\Debug\ja\DevExpress.XtraBars.v13.2.resources.dll
+D:\毕行健在图南\广西项目\交接20171120\对接2017910\启东对接2017-11-10\trunk\GRPlatForm\bin\Debug\ru\DevExpress.XtraBars.v13.2.resources.dll
+D:\毕行健在图南\广西项目\交接20171120\对接2017910\启东对接2017-11-10\trunk\GRPlatForm\bin\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+D:\毕行健在图南\广西项目\交接20171120\对接2017910\启东对接2017-11-10\trunk\GRPlatForm\bin\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+D:\毕行健在图南\广西项目\交接20171120\对接2017910\启东对接2017-11-10\trunk\GRPlatForm\bin\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+D:\毕行健在图南\广西项目\交接20171120\对接2017910\启东对接2017-11-10\trunk\GRPlatForm\bin\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+D:\毕行健在图南\广西项目\交接20171120\对接2017910\启东对接2017-11-10\trunk\GRPlatForm\bin\Debug\de\DevExpress.Printing.v13.2.Core.resources.dll
+D:\毕行健在图南\广西项目\交接20171120\对接2017910\启东对接2017-11-10\trunk\GRPlatForm\bin\Debug\es\DevExpress.Printing.v13.2.Core.resources.dll
+D:\毕行健在图南\广西项目\交接20171120\对接2017910\启东对接2017-11-10\trunk\GRPlatForm\bin\Debug\ja\DevExpress.Printing.v13.2.Core.resources.dll
+D:\毕行健在图南\广西项目\交接20171120\对接2017910\启东对接2017-11-10\trunk\GRPlatForm\bin\Debug\ru\DevExpress.Printing.v13.2.Core.resources.dll
+D:\毕行健在图南\广西项目\交接20171120\对接2017910\启东对接2017-11-10\trunk\GRPlatForm\bin\Debug\ru\DevExpress.Sparkline.v13.2.Core.resources.dll
+D:\毕行健在图南\广西项目\交接20171120\对接2017910\启东对接2017-11-10\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csprojResolveAssemblyReference.cache
+D:\毕行健在图南\广西项目\交接20171120\对接2017910\启东对接2017-11-10\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlay.resources
+D:\毕行健在图南\广西项目\交接20171120\对接2017910\启东对接2017-11-10\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlayer.resources
+D:\毕行健在图南\广西项目\交接20171120\对接2017910\启东对接2017-11-10\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.EBMInfo.resources
+D:\毕行健在图南\广西项目\交接20171120\对接2017910\启东对接2017-11-10\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.InfoSetForm.resources
+D:\毕行健在图南\广西项目\交接20171120\对接2017910\启东对接2017-11-10\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.frmLogin.resources
+D:\毕行健在图南\广西项目\交接20171120\对接2017910\启东对接2017-11-10\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.mainForm.resources
+D:\毕行健在图南\广西项目\交接20171120\对接2017910\启东对接2017-11-10\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.Properties.Resources.resources
+D:\毕行健在图南\广西项目\交接20171120\对接2017910\启东对接2017-11-10\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerForm.resources
+D:\毕行健在图南\广西项目\交接20171120\对接2017910\启东对接2017-11-10\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerIPSetForm.resources
+D:\毕行健在图南\广西项目\交接20171120\对接2017910\启东对接2017-11-10\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerSetForm.resources
+D:\毕行健在图南\广西项目\交接20171120\对接2017910\启东对接2017-11-10\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.TmpFolderSetForm.resources
+D:\毕行健在图南\广西项目\交接20171120\对接2017910\启东对接2017-11-10\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csproj.GenerateResource.Cache
+D:\ProjectDoc\software\Series\丽水对接2018-01-04\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe.config
+D:\ProjectDoc\software\Series\丽水对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.exe
+D:\ProjectDoc\software\Series\丽水对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.pdb
+D:\ProjectDoc\software\Series\丽水对接2018-01-04\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe
+D:\ProjectDoc\software\Series\丽水对接2018-01-04\trunk\GRPlatForm\bin\Debug\HBPlatForm.pdb
+D:\ProjectDoc\software\Series\丽水对接2018-01-04\trunk\GRPlatForm\bin\Debug\DevExpress.Printing.v13.2.Core.dll
+D:\ProjectDoc\software\Series\丽水对接2018-01-04\trunk\GRPlatForm\bin\Debug\DevExpress.Sparkline.v13.2.Core.dll
+D:\ProjectDoc\software\Series\丽水对接2018-01-04\trunk\GRPlatForm\bin\Debug\DevExpress.Data.v13.2.xml
+D:\ProjectDoc\software\Series\丽水对接2018-01-04\trunk\GRPlatForm\bin\Debug\DevExpress.Utils.v13.2.xml
+D:\ProjectDoc\software\Series\丽水对接2018-01-04\trunk\GRPlatForm\bin\Debug\DevExpress.XtraBars.v13.2.xml
+D:\ProjectDoc\software\Series\丽水对接2018-01-04\trunk\GRPlatForm\bin\Debug\DevExpress.XtraEditors.v13.2.xml
+D:\ProjectDoc\software\Series\丽水对接2018-01-04\trunk\GRPlatForm\bin\Debug\DevExpress.Printing.v13.2.Core.xml
+D:\ProjectDoc\software\Series\丽水对接2018-01-04\trunk\GRPlatForm\bin\Debug\DevExpress.Sparkline.v13.2.Core.xml
+D:\ProjectDoc\software\Series\丽水对接2018-01-04\trunk\GRPlatForm\bin\Debug\de\DevExpress.Data.v13.2.resources.dll
+D:\ProjectDoc\software\Series\丽水对接2018-01-04\trunk\GRPlatForm\bin\Debug\es\DevExpress.Data.v13.2.resources.dll
+D:\ProjectDoc\software\Series\丽水对接2018-01-04\trunk\GRPlatForm\bin\Debug\ja\DevExpress.Data.v13.2.resources.dll
+D:\ProjectDoc\software\Series\丽水对接2018-01-04\trunk\GRPlatForm\bin\Debug\ru\DevExpress.Data.v13.2.resources.dll
+D:\ProjectDoc\software\Series\丽水对接2018-01-04\trunk\GRPlatForm\bin\Debug\de\DevExpress.Utils.v13.2.resources.dll
+D:\ProjectDoc\software\Series\丽水对接2018-01-04\trunk\GRPlatForm\bin\Debug\es\DevExpress.Utils.v13.2.resources.dll
+D:\ProjectDoc\software\Series\丽水对接2018-01-04\trunk\GRPlatForm\bin\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+D:\ProjectDoc\software\Series\丽水对接2018-01-04\trunk\GRPlatForm\bin\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+D:\ProjectDoc\software\Series\丽水对接2018-01-04\trunk\GRPlatForm\bin\Debug\de\DevExpress.XtraBars.v13.2.resources.dll
+D:\ProjectDoc\software\Series\丽水对接2018-01-04\trunk\GRPlatForm\bin\Debug\es\DevExpress.XtraBars.v13.2.resources.dll
+D:\ProjectDoc\software\Series\丽水对接2018-01-04\trunk\GRPlatForm\bin\Debug\ja\DevExpress.XtraBars.v13.2.resources.dll
+D:\ProjectDoc\software\Series\丽水对接2018-01-04\trunk\GRPlatForm\bin\Debug\ru\DevExpress.XtraBars.v13.2.resources.dll
+D:\ProjectDoc\software\Series\丽水对接2018-01-04\trunk\GRPlatForm\bin\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+D:\ProjectDoc\software\Series\丽水对接2018-01-04\trunk\GRPlatForm\bin\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+D:\ProjectDoc\software\Series\丽水对接2018-01-04\trunk\GRPlatForm\bin\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+D:\ProjectDoc\software\Series\丽水对接2018-01-04\trunk\GRPlatForm\bin\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+D:\ProjectDoc\software\Series\丽水对接2018-01-04\trunk\GRPlatForm\bin\Debug\de\DevExpress.Printing.v13.2.Core.resources.dll
+D:\ProjectDoc\software\Series\丽水对接2018-01-04\trunk\GRPlatForm\bin\Debug\es\DevExpress.Printing.v13.2.Core.resources.dll
+D:\ProjectDoc\software\Series\丽水对接2018-01-04\trunk\GRPlatForm\bin\Debug\ja\DevExpress.Printing.v13.2.Core.resources.dll
+D:\ProjectDoc\software\Series\丽水对接2018-01-04\trunk\GRPlatForm\bin\Debug\ru\DevExpress.Printing.v13.2.Core.resources.dll
+D:\ProjectDoc\software\Series\丽水对接2018-01-04\trunk\GRPlatForm\bin\Debug\ru\DevExpress.Sparkline.v13.2.Core.resources.dll
+D:\ProjectDoc\software\Series\丽水对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csprojResolveAssemblyReference.cache
+D:\ProjectDoc\software\Series\丽水对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlay.resources
+D:\ProjectDoc\software\Series\丽水对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlayer.resources
+D:\ProjectDoc\software\Series\丽水对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.EBMInfo.resources
+D:\ProjectDoc\software\Series\丽水对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.InfoSetForm.resources
+D:\ProjectDoc\software\Series\丽水对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.frmLogin.resources
+D:\ProjectDoc\software\Series\丽水对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.mainForm.resources
+D:\ProjectDoc\software\Series\丽水对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.Properties.Resources.resources
+D:\ProjectDoc\software\Series\丽水对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerForm.resources
+D:\ProjectDoc\software\Series\丽水对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerIPSetForm.resources
+D:\ProjectDoc\software\Series\丽水对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerSetForm.resources
+D:\ProjectDoc\software\Series\丽水对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.TmpFolderSetForm.resources
+D:\ProjectDoc\software\Series\丽水对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csproj.GenerateResource.Cache
+F:\20180107\Series\丽水对接2018-01-04\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe.config
+F:\20180107\Series\丽水对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.exe
+F:\20180107\Series\丽水对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.pdb
+F:\20180107\Series\丽水对接2018-01-04\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe
+F:\20180107\Series\丽水对接2018-01-04\trunk\GRPlatForm\bin\Debug\HBPlatForm.pdb
+F:\20180107\Series\丽水对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlay.resources
+F:\20180107\Series\丽水对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlayer.resources
+F:\20180107\Series\丽水对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.EBMInfo.resources
+F:\20180107\Series\丽水对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.InfoSetForm.resources
+F:\20180107\Series\丽水对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.frmLogin.resources
+F:\20180107\Series\丽水对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.mainForm.resources
+F:\20180107\Series\丽水对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.Properties.Resources.resources
+F:\20180107\Series\丽水对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerForm.resources
+F:\20180107\Series\丽水对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerIPSetForm.resources
+F:\20180107\Series\丽水对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerSetForm.resources
+F:\20180107\Series\丽水对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.TmpFolderSetForm.resources
+F:\20180107\Series\丽水对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csproj.GenerateResource.Cache
+F:\20180107\Series\丽水对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csprojResolveAssemblyReference.cache
+D:\ProjectDoc\software\Series\宿豫对接2018-01-04\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe.config
+D:\ProjectDoc\software\Series\宿豫对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.exe
+D:\ProjectDoc\software\Series\宿豫对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.pdb
+D:\ProjectDoc\software\Series\宿豫对接2018-01-04\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe
+D:\ProjectDoc\software\Series\宿豫对接2018-01-04\trunk\GRPlatForm\bin\Debug\HBPlatForm.pdb
+D:\ProjectDoc\software\Series\宿豫对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csprojResolveAssemblyReference.cache
+D:\ProjectDoc\software\Series\宿豫对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlay.resources
+D:\ProjectDoc\software\Series\宿豫对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlayer.resources
+D:\ProjectDoc\software\Series\宿豫对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.EBMInfo.resources
+D:\ProjectDoc\software\Series\宿豫对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.InfoSetForm.resources
+D:\ProjectDoc\software\Series\宿豫对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.frmLogin.resources
+D:\ProjectDoc\software\Series\宿豫对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.mainForm.resources
+D:\ProjectDoc\software\Series\宿豫对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.Properties.Resources.resources
+D:\ProjectDoc\software\Series\宿豫对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerForm.resources
+D:\ProjectDoc\software\Series\宿豫对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerIPSetForm.resources
+D:\ProjectDoc\software\Series\宿豫对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerSetForm.resources
+D:\ProjectDoc\software\Series\宿豫对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.TmpFolderSetForm.resources
+D:\ProjectDoc\software\Series\宿豫对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csproj.GenerateResource.Cache
+D:\ProjectDoc\对接软件\MatchPlatform\江苏\宿豫对接2018-01-04\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe.config
+D:\ProjectDoc\对接软件\MatchPlatform\江苏\宿豫对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.exe
+D:\ProjectDoc\对接软件\MatchPlatform\江苏\宿豫对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.pdb
+D:\ProjectDoc\对接软件\MatchPlatform\江苏\宿豫对接2018-01-04\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe
+D:\ProjectDoc\对接软件\MatchPlatform\江苏\宿豫对接2018-01-04\trunk\GRPlatForm\bin\Debug\HBPlatForm.pdb
+D:\ProjectDoc\对接软件\MatchPlatform\江苏\宿豫对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csprojResolveAssemblyReference.cache
+D:\ProjectDoc\对接软件\MatchPlatform\江苏\宿豫对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlay.resources
+D:\ProjectDoc\对接软件\MatchPlatform\江苏\宿豫对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlayer.resources
+D:\ProjectDoc\对接软件\MatchPlatform\江苏\宿豫对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.EBMInfo.resources
+D:\ProjectDoc\对接软件\MatchPlatform\江苏\宿豫对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.InfoSetForm.resources
+D:\ProjectDoc\对接软件\MatchPlatform\江苏\宿豫对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.frmLogin.resources
+D:\ProjectDoc\对接软件\MatchPlatform\江苏\宿豫对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.mainForm.resources
+D:\ProjectDoc\对接软件\MatchPlatform\江苏\宿豫对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.Properties.Resources.resources
+D:\ProjectDoc\对接软件\MatchPlatform\江苏\宿豫对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerForm.resources
+D:\ProjectDoc\对接软件\MatchPlatform\江苏\宿豫对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerIPSetForm.resources
+D:\ProjectDoc\对接软件\MatchPlatform\江苏\宿豫对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerSetForm.resources
+D:\ProjectDoc\对接软件\MatchPlatform\江苏\宿豫对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.TmpFolderSetForm.resources
+D:\ProjectDoc\对接软件\MatchPlatform\江苏\宿豫对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csproj.GenerateResource.Cache
+D:\图南\安徽\宿豫对接2018-01-04\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe.config
+D:\图南\安徽\宿豫对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.exe
+D:\图南\安徽\宿豫对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.pdb
+D:\图南\安徽\宿豫对接2018-01-04\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe
+D:\图南\安徽\宿豫对接2018-01-04\trunk\GRPlatForm\bin\Debug\HBPlatForm.pdb
+D:\图南\安徽\宿豫对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csprojResolveAssemblyReference.cache
+D:\图南\安徽\宿豫对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlay.resources
+D:\图南\安徽\宿豫对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlayer.resources
+D:\图南\安徽\宿豫对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.EBMInfo.resources
+D:\图南\安徽\宿豫对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.InfoSetForm.resources
+D:\图南\安徽\宿豫对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.frmLogin.resources
+D:\图南\安徽\宿豫对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.mainForm.resources
+D:\图南\安徽\宿豫对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.Properties.Resources.resources
+D:\图南\安徽\宿豫对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerForm.resources
+D:\图南\安徽\宿豫对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerIPSetForm.resources
+D:\图南\安徽\宿豫对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerSetForm.resources
+D:\图南\安徽\宿豫对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.TmpFolderSetForm.resources
+D:\图南\安徽\宿豫对接2018-01-04\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csproj.GenerateResource.Cache
+D:\图南\安徽\宿豫对接2018-06-07\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe.config
+D:\图南\安徽\宿豫对接2018-06-07\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe
+D:\图南\安徽\宿豫对接2018-06-07\trunk\GRPlatForm\bin\Debug\HBPlatForm.pdb
+D:\图南\安徽\宿豫对接2018-06-07\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csprojResolveAssemblyReference.cache
+D:\图南\安徽\宿豫对接2018-06-07\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlay.resources
+D:\图南\安徽\宿豫对接2018-06-07\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlayer.resources
+D:\图南\安徽\宿豫对接2018-06-07\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.EBMInfo.resources
+D:\图南\安徽\宿豫对接2018-06-07\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.InfoSetForm.resources
+D:\图南\安徽\宿豫对接2018-06-07\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.frmLogin.resources
+D:\图南\安徽\宿豫对接2018-06-07\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.mainForm.resources
+D:\图南\安徽\宿豫对接2018-06-07\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.Properties.Resources.resources
+D:\图南\安徽\宿豫对接2018-06-07\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerForm.resources
+D:\图南\安徽\宿豫对接2018-06-07\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerIPSetForm.resources
+D:\图南\安徽\宿豫对接2018-06-07\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerSetForm.resources
+D:\图南\安徽\宿豫对接2018-06-07\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.TmpFolderSetForm.resources
+D:\图南\安徽\宿豫对接2018-06-07\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csproj.GenerateResource.Cache
+D:\图南\安徽\宿豫对接2018-06-07\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.exe
+D:\图南\安徽\宿豫对接2018-06-07\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.pdb
+D:\图南\安徽\宿豫对接2018-06-08\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe.config
+D:\图南\安徽\宿豫对接2018-06-08\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe
+D:\图南\安徽\宿豫对接2018-06-08\trunk\GRPlatForm\bin\Debug\HBPlatForm.pdb
+D:\图南\安徽\宿豫对接2018-06-08\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlay.resources
+D:\图南\安徽\宿豫对接2018-06-08\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlayer.resources
+D:\图南\安徽\宿豫对接2018-06-08\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.EBMInfo.resources
+D:\图南\安徽\宿豫对接2018-06-08\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.InfoSetForm.resources
+D:\图南\安徽\宿豫对接2018-06-08\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.frmLogin.resources
+D:\图南\安徽\宿豫对接2018-06-08\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.mainForm.resources
+D:\图南\安徽\宿豫对接2018-06-08\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.Properties.Resources.resources
+D:\图南\安徽\宿豫对接2018-06-08\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerForm.resources
+D:\图南\安徽\宿豫对接2018-06-08\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerIPSetForm.resources
+D:\图南\安徽\宿豫对接2018-06-08\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerSetForm.resources
+D:\图南\安徽\宿豫对接2018-06-08\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.TmpFolderSetForm.resources
+D:\图南\安徽\宿豫对接2018-06-08\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csproj.GenerateResource.Cache
+D:\图南\安徽\宿豫对接2018-06-08\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.exe
+D:\图南\安徽\宿豫对接2018-06-08\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.pdb
+D:\图南\安徽\宿豫对接2018-06-08\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csprojResolveAssemblyReference.cache
+D:\图南\安徽\宿豫对接2018-06-08 -3\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe.config
+D:\图南\安徽\宿豫对接2018-06-08 -3\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe
+D:\图南\安徽\宿豫对接2018-06-08 -3\trunk\GRPlatForm\bin\Debug\HBPlatForm.pdb
+D:\图南\安徽\宿豫对接2018-06-08 -3\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlay.resources
+D:\图南\安徽\宿豫对接2018-06-08 -3\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlayer.resources
+D:\图南\安徽\宿豫对接2018-06-08 -3\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.EBMInfo.resources
+D:\图南\安徽\宿豫对接2018-06-08 -3\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.InfoSetForm.resources
+D:\图南\安徽\宿豫对接2018-06-08 -3\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.frmLogin.resources
+D:\图南\安徽\宿豫对接2018-06-08 -3\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.mainForm.resources
+D:\图南\安徽\宿豫对接2018-06-08 -3\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.Properties.Resources.resources
+D:\图南\安徽\宿豫对接2018-06-08 -3\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerForm.resources
+D:\图南\安徽\宿豫对接2018-06-08 -3\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerIPSetForm.resources
+D:\图南\安徽\宿豫对接2018-06-08 -3\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerSetForm.resources
+D:\图南\安徽\宿豫对接2018-06-08 -3\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.TmpFolderSetForm.resources
+D:\图南\安徽\宿豫对接2018-06-08 -3\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csproj.GenerateResource.Cache
+D:\图南\安徽\宿豫对接2018-06-08 -3\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.exe
+D:\图南\安徽\宿豫对接2018-06-08 -3\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.pdb
+D:\图南\安徽\宿豫对接2018-06-08 -3\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csprojResolveAssemblyReference.cache
+G:\安徽\安徽11项对接完成2018-06-09\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe.config
+G:\安徽\安徽11项对接完成2018-06-09\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.exe
+G:\安徽\安徽11项对接完成2018-06-09\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.pdb
+G:\安徽\安徽11项对接完成2018-06-09\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe
+G:\安徽\安徽11项对接完成2018-06-09\trunk\GRPlatForm\bin\Debug\HBPlatForm.pdb
+G:\安徽\安徽11项对接完成2018-06-09\trunk\GRPlatForm\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\安徽\安徽11项对接完成2018-06-09\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlay.resources
+G:\安徽\安徽11项对接完成2018-06-09\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlayer.resources
+G:\安徽\安徽11项对接完成2018-06-09\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.EBMInfo.resources
+G:\安徽\安徽11项对接完成2018-06-09\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.InfoSetForm.resources
+G:\安徽\安徽11项对接完成2018-06-09\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.frmLogin.resources
+G:\安徽\安徽11项对接完成2018-06-09\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.mainForm.resources
+G:\安徽\安徽11项对接完成2018-06-09\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.Properties.Resources.resources
+G:\安徽\安徽11项对接完成2018-06-09\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerForm.resources
+G:\安徽\安徽11项对接完成2018-06-09\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerIPSetForm.resources
+G:\安徽\安徽11项对接完成2018-06-09\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerSetForm.resources
+G:\安徽\安徽11项对接完成2018-06-09\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.TmpFolderSetForm.resources
+G:\安徽\安徽11项对接完成2018-06-09\trunk\GRPlatForm\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\安徽\安徽11项对接完成2018-06-09\trunk\GRPlatForm\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\图南\安徽\trunk(国标)\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe.config
+D:\图南\安徽\trunk(国标)\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.exe
+D:\图南\安徽\trunk(国标)\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.pdb
+D:\图南\安徽\trunk(国标)\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe
+D:\图南\安徽\trunk(国标)\trunk\GRPlatForm\bin\Debug\HBPlatForm.pdb
+D:\图南\安徽\trunk(国标)\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csprojResolveAssemblyReference.cache
+D:\图南\安徽\trunk(国标)\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlay.resources
+D:\图南\安徽\trunk(国标)\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlayer.resources
+D:\图南\安徽\trunk(国标)\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.EBMInfo.resources
+D:\图南\安徽\trunk(国标)\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.InfoSetForm.resources
+D:\图南\安徽\trunk(国标)\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.frmLogin.resources
+D:\图南\安徽\trunk(国标)\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.mainForm.resources
+D:\图南\安徽\trunk(国标)\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.Properties.Resources.resources
+D:\图南\安徽\trunk(国标)\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerForm.resources
+D:\图南\安徽\trunk(国标)\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerIPSetForm.resources
+D:\图南\安徽\trunk(国标)\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerSetForm.resources
+D:\图南\安徽\trunk(国标)\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.TmpFolderSetForm.resources
+D:\图南\安徽\trunk(国标)\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csproj.GenerateResource.Cache
+D:\图南\安徽\trunk(国标)安徽11项对接完成2018-06-09V1.0\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe.config
+D:\图南\安徽\trunk(国标)安徽11项对接完成2018-06-09V1.0\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.exe
+D:\图南\安徽\trunk(国标)安徽11项对接完成2018-06-09V1.0\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.pdb
+D:\图南\安徽\trunk(国标)安徽11项对接完成2018-06-09V1.01\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe.config
+D:\图南\安徽\trunk(国标)安徽11项对接完成2018-06-09V1.01\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.exe
+D:\图南\安徽\trunk(国标)安徽11项对接完成2018-06-09V1.01\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.pdb
+D:\图南\安徽\trunk(国标)安徽11项对接完成2018-06-09V1.01\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe
+D:\图南\安徽\trunk(国标)安徽11项对接完成2018-06-09V1.01\trunk\GRPlatForm\bin\Debug\HBPlatForm.pdb
+D:\图南\安徽\trunk(国标)安徽11项对接完成2018-06-09V1.01\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlay.resources
+D:\图南\安徽\trunk(国标)安徽11项对接完成2018-06-09V1.01\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlayer.resources
+D:\图南\安徽\trunk(国标)安徽11项对接完成2018-06-09V1.01\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.EBMInfo.resources
+D:\图南\安徽\trunk(国标)安徽11项对接完成2018-06-09V1.01\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.InfoSetForm.resources
+D:\图南\安徽\trunk(国标)安徽11项对接完成2018-06-09V1.01\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.frmLogin.resources
+D:\图南\安徽\trunk(国标)安徽11项对接完成2018-06-09V1.01\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.mainForm.resources
+D:\图南\安徽\trunk(国标)安徽11项对接完成2018-06-09V1.01\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.Properties.Resources.resources
+D:\图南\安徽\trunk(国标)安徽11项对接完成2018-06-09V1.01\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerForm.resources
+D:\图南\安徽\trunk(国标)安徽11项对接完成2018-06-09V1.01\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerIPSetForm.resources
+D:\图南\安徽\trunk(国标)安徽11项对接完成2018-06-09V1.01\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerSetForm.resources
+D:\图南\安徽\trunk(国标)安徽11项对接完成2018-06-09V1.01\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.TmpFolderSetForm.resources
+D:\图南\安徽\trunk(国标)安徽11项对接完成2018-06-09V1.01\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csproj.GenerateResource.Cache
+F:\安徽33条第二版\trunk(国标)安徽33条第二版\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe
+F:\安徽33条第二版\trunk(国标)安徽33条第二版\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe.config
+F:\安徽33条第二版\trunk(国标)安徽33条第二版\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlay.resources
+F:\安徽33条第二版\trunk(国标)安徽33条第二版\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlayer.resources
+F:\安徽33条第二版\trunk(国标)安徽33条第二版\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.EBMInfo.resources
+F:\安徽33条第二版\trunk(国标)安徽33条第二版\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.InfoSetForm.resources
+F:\安徽33条第二版\trunk(国标)安徽33条第二版\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.frmLogin.resources
+F:\安徽33条第二版\trunk(国标)安徽33条第二版\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.mainForm.resources
+F:\安徽33条第二版\trunk(国标)安徽33条第二版\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.Properties.Resources.resources
+F:\安徽33条第二版\trunk(国标)安徽33条第二版\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerForm.resources
+F:\安徽33条第二版\trunk(国标)安徽33条第二版\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerIPSetForm.resources
+F:\安徽33条第二版\trunk(国标)安徽33条第二版\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerSetForm.resources
+F:\安徽33条第二版\trunk(国标)安徽33条第二版\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.TmpFolderSetForm.resources
+F:\安徽33条第二版\trunk(国标)安徽33条第二版\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csproj.GenerateResource.Cache
+F:\安徽33条第二版\trunk(国标)安徽33条第二版\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.exe
+F:\安徽33条第二版\trunk(国标)安徽33条第二版\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.pdb
+F:\安徽33条第二版\trunk(国标)安徽33条第二版\trunk\GRPlatForm\bin\Debug\HBPlatForm.pdb
+F:\安徽33条第二版\trunk(国标)安徽33条第二版\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csprojResolveAssemblyReference.cache
+D:\图南\安徽\trunk(国标)安徽33条第二版\trunk(国标)安徽33条第二版\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe.config
+D:\图南\安徽\trunk(国标)安徽33条第二版\trunk(国标)安徽33条第二版\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe
+D:\图南\安徽\trunk(国标)安徽33条第二版\trunk(国标)安徽33条第二版\trunk\GRPlatForm\bin\Debug\HBPlatForm.pdb
+D:\图南\安徽\trunk(国标)安徽33条第二版\trunk(国标)安徽33条第二版\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlay.resources
+D:\图南\安徽\trunk(国标)安徽33条第二版\trunk(国标)安徽33条第二版\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlayer.resources
+D:\图南\安徽\trunk(国标)安徽33条第二版\trunk(国标)安徽33条第二版\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.EBMInfo.resources
+D:\图南\安徽\trunk(国标)安徽33条第二版\trunk(国标)安徽33条第二版\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.InfoSetForm.resources
+D:\图南\安徽\trunk(国标)安徽33条第二版\trunk(国标)安徽33条第二版\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.frmLogin.resources
+D:\图南\安徽\trunk(国标)安徽33条第二版\trunk(国标)安徽33条第二版\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.mainForm.resources
+D:\图南\安徽\trunk(国标)安徽33条第二版\trunk(国标)安徽33条第二版\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.Properties.Resources.resources
+D:\图南\安徽\trunk(国标)安徽33条第二版\trunk(国标)安徽33条第二版\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerForm.resources
+D:\图南\安徽\trunk(国标)安徽33条第二版\trunk(国标)安徽33条第二版\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerIPSetForm.resources
+D:\图南\安徽\trunk(国标)安徽33条第二版\trunk(国标)安徽33条第二版\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerSetForm.resources
+D:\图南\安徽\trunk(国标)安徽33条第二版\trunk(国标)安徽33条第二版\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.TmpFolderSetForm.resources
+D:\图南\安徽\trunk(国标)安徽33条第二版\trunk(国标)安徽33条第二版\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csproj.GenerateResource.Cache
+D:\图南\安徽\trunk(国标)安徽33条第二版\trunk(国标)安徽33条第二版\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.exe
+D:\图南\安徽\trunk(国标)安徽33条第二版\trunk(国标)安徽33条第二版\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.pdb
+D:\图南\安徽\trunk(国标)安徽33条第二版\trunk(国标)安徽33条第二版\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csprojResolveAssemblyReference.cache
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe.config
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.exe
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版\trunk\GRPlatForm\bin\Debug\HBPlatForm.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csprojResolveAssemblyReference.cache
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlay.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlayer.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.EBMInfo.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.InfoSetForm.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.frmLogin.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.mainForm.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.Properties.Resources.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerForm.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerIPSetForm.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerSetForm.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.TmpFolderSetForm.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csproj.GenerateResource.Cache
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe.config
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.exe
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626\trunk\GRPlatForm\bin\Debug\HBPlatForm.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csprojResolveAssemblyReference.cache
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlay.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlayer.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.EBMInfo.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.InfoSetForm.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.frmLogin.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.mainForm.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.Properties.Resources.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerForm.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerIPSetForm.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerSetForm.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.TmpFolderSetForm.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csproj.GenerateResource.Cache
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626 - 副本\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe.config
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626 - 副本\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.exe
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626 - 副本\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626 - 副本\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626 - 副本\trunk\GRPlatForm\bin\Debug\HBPlatForm.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626 - 副本\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csprojResolveAssemblyReference.cache
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626 - 副本\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlay.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626 - 副本\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlayer.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626 - 副本\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.EBMInfo.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626 - 副本\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.InfoSetForm.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626 - 副本\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.frmLogin.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626 - 副本\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.mainForm.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626 - 副本\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.Properties.Resources.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626 - 副本\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerForm.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626 - 副本\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerIPSetForm.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626 - 副本\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerSetForm.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626 - 副本\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.TmpFolderSetForm.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626 - 副本\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csproj.GenerateResource.Cache
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626 - 副本\trunk\GRPlatForm\bin\Debug\HttpModel.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626 - 副本\trunk\GRPlatForm\bin\Debug\HttpServer.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626 - 副本\trunk\GRPlatForm\bin\Debug\HttpServerLib.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626 - 副本\trunk\GRPlatForm\bin\Debug\HttpModel.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626 - 副本\trunk\GRPlatForm\bin\Debug\HttpServerLib.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626 - 副本\trunk\GRPlatForm\bin\Debug\HttpServer.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626 - 副本\trunk\GRPlatForm\bin\Debug\ConsumptionQueue.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626 - 副本\trunk\GRPlatForm\bin\Debug\ConsumptionQueue.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180626 - 副本\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.HttpServerFrom.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180703分支\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe.config
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180703分支\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.exe
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180703分支\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180703分支\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180703分支\trunk\GRPlatForm\bin\Debug\HBPlatForm.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180703分支\trunk\GRPlatForm\bin\Debug\ConsumptionQueue.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180703分支\trunk\GRPlatForm\bin\Debug\HttpModel.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180703分支\trunk\GRPlatForm\bin\Debug\HttpServer.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180703分支\trunk\GRPlatForm\bin\Debug\HttpServerLib.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180703分支\trunk\GRPlatForm\bin\Debug\ConsumptionQueue.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180703分支\trunk\GRPlatForm\bin\Debug\HttpModel.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180703分支\trunk\GRPlatForm\bin\Debug\HttpServerLib.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180703分支\trunk\GRPlatForm\bin\Debug\HttpServer.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180703分支\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csprojResolveAssemblyReference.cache
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180703分支\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlay.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180703分支\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlayer.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180703分支\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.EBMInfo.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180703分支\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.HttpServerFrom.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180703分支\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.InfoSetForm.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180703分支\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.frmLogin.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180703分支\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.mainForm.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180703分支\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.Properties.Resources.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180703分支\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerForm.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180703分支\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerIPSetForm.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180703分支\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerSetForm.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180703分支\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.TmpFolderSetForm.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180703分支\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csproj.GenerateResource.Cache
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180706分支\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe.config
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180706分支\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.exe
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180706分支\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180706分支\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180706分支\trunk\GRPlatForm\bin\Debug\HBPlatForm.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180706分支\trunk\GRPlatForm\bin\Debug\ConsumptionQueue.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180706分支\trunk\GRPlatForm\bin\Debug\HttpModel.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180706分支\trunk\GRPlatForm\bin\Debug\HttpServer.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180706分支\trunk\GRPlatForm\bin\Debug\HttpServerLib.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180706分支\trunk\GRPlatForm\bin\Debug\ConsumptionQueue.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180706分支\trunk\GRPlatForm\bin\Debug\HttpModel.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180706分支\trunk\GRPlatForm\bin\Debug\HttpServerLib.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180706分支\trunk\GRPlatForm\bin\Debug\HttpServer.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180706分支\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csprojResolveAssemblyReference.cache
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180706分支\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlay.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180706分支\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlayer.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180706分支\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.EBMInfo.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180706分支\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.HttpServerFrom.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180706分支\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.InfoSetForm.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180706分支\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.frmLogin.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180706分支\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.mainForm.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180706分支\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.Properties.Resources.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180706分支\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerForm.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180706分支\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerIPSetForm.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180706分支\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerSetForm.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180706分支\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.TmpFolderSetForm.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180706分支\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csproj.GenerateResource.Cache
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709分支\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe.config
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709分支\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.exe
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709分支\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709分支\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709分支\trunk\GRPlatForm\bin\Debug\HBPlatForm.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709分支\trunk\GRPlatForm\bin\Debug\ConsumptionQueue.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709分支\trunk\GRPlatForm\bin\Debug\HttpModel.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709分支\trunk\GRPlatForm\bin\Debug\HttpServer.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709分支\trunk\GRPlatForm\bin\Debug\HttpServerLib.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709分支\trunk\GRPlatForm\bin\Debug\ConsumptionQueue.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709分支\trunk\GRPlatForm\bin\Debug\HttpModel.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709分支\trunk\GRPlatForm\bin\Debug\HttpServerLib.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709分支\trunk\GRPlatForm\bin\Debug\HttpServer.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709分支\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csprojResolveAssemblyReference.cache
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709分支\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlay.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709分支\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlayer.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709分支\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.EBMInfo.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709分支\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.HttpServerFrom.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709分支\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.InfoSetForm.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709分支\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.frmLogin.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709分支\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.mainForm.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709分支\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.Properties.Resources.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709分支\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerForm.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709分支\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerIPSetForm.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709分支\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerSetForm.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709分支\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.TmpFolderSetForm.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709分支\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csproj.GenerateResource.Cache
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709完成\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe.config
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709完成\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.exe
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709完成\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709完成\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709完成\trunk\GRPlatForm\bin\Debug\HBPlatForm.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709完成\trunk\GRPlatForm\bin\Debug\ConsumptionQueue.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709完成\trunk\GRPlatForm\bin\Debug\HttpModel.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709完成\trunk\GRPlatForm\bin\Debug\HttpServer.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709完成\trunk\GRPlatForm\bin\Debug\HttpServerLib.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709完成\trunk\GRPlatForm\bin\Debug\ConsumptionQueue.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709完成\trunk\GRPlatForm\bin\Debug\HttpModel.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709完成\trunk\GRPlatForm\bin\Debug\HttpServerLib.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709完成\trunk\GRPlatForm\bin\Debug\HttpServer.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709完成\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csprojResolveAssemblyReference.cache
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709完成\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlay.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709完成\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlayer.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709完成\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.EBMInfo.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709完成\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.HttpServerFrom.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709完成\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.InfoSetForm.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709完成\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.frmLogin.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709完成\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.mainForm.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709完成\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.Properties.Resources.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709完成\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerForm.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709完成\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerIPSetForm.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709完成\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerSetForm.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709完成\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.TmpFolderSetForm.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\trunk(国标)安徽33条第二版 20180709完成\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csproj.GenerateResource.Cache
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\安徽接口测试测试完成20180712\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe.config
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\安徽接口测试测试完成20180712\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.exe
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\安徽接口测试测试完成20180712\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\安徽接口测试测试完成20180712\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\安徽接口测试测试完成20180712\trunk\GRPlatForm\bin\Debug\HBPlatForm.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\安徽接口测试测试完成20180712\trunk\GRPlatForm\bin\Debug\ConsumptionQueue.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\安徽接口测试测试完成20180712\trunk\GRPlatForm\bin\Debug\HttpModel.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\安徽接口测试测试完成20180712\trunk\GRPlatForm\bin\Debug\HttpServer.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\安徽接口测试测试完成20180712\trunk\GRPlatForm\bin\Debug\HttpServerLib.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\安徽接口测试测试完成20180712\trunk\GRPlatForm\bin\Debug\ConsumptionQueue.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\安徽接口测试测试完成20180712\trunk\GRPlatForm\bin\Debug\HttpModel.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\安徽接口测试测试完成20180712\trunk\GRPlatForm\bin\Debug\HttpServerLib.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\安徽接口测试测试完成20180712\trunk\GRPlatForm\bin\Debug\HttpServer.pdb
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\安徽接口测试测试完成20180712\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csprojResolveAssemblyReference.cache
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\安徽接口测试测试完成20180712\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlay.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\安徽接口测试测试完成20180712\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlayer.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\安徽接口测试测试完成20180712\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.EBMInfo.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\安徽接口测试测试完成20180712\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.HttpServerFrom.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\安徽接口测试测试完成20180712\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.InfoSetForm.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\安徽接口测试测试完成20180712\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.frmLogin.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\安徽接口测试测试完成20180712\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.mainForm.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\安徽接口测试测试完成20180712\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.Properties.Resources.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\安徽接口测试测试完成20180712\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerForm.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\安徽接口测试测试完成20180712\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerIPSetForm.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\安徽接口测试测试完成20180712\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerSetForm.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\安徽接口测试测试完成20180712\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.TmpFolderSetForm.resources
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\安徽接口测试测试完成20180712\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csproj.GenerateResource.Cache
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\安徽接口测试测试完成20180712\trunk\GRPlatForm\bin\Debug\ProcessHelper.dll
+D:\图南\安徽\trunk(国标)安徽33对接完成V1.0.0\安徽接口测试测试完成20180712\trunk\GRPlatForm\bin\Debug\ProcessHelper.pdb
+D:\曲刚交接\安徽对接\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe.config
+D:\曲刚交接\安徽对接\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.exe
+D:\曲刚交接\安徽对接\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.pdb
+D:\曲刚交接\安徽对接\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe
+D:\曲刚交接\安徽对接\trunk\GRPlatForm\bin\Debug\HBPlatForm.pdb
+D:\曲刚交接\安徽对接\trunk\GRPlatForm\bin\Debug\ConsumptionQueue.dll
+D:\曲刚交接\安徽对接\trunk\GRPlatForm\bin\Debug\HttpModel.dll
+D:\曲刚交接\安徽对接\trunk\GRPlatForm\bin\Debug\HttpServer.dll
+D:\曲刚交接\安徽对接\trunk\GRPlatForm\bin\Debug\HttpServerLib.dll
+D:\曲刚交接\安徽对接\trunk\GRPlatForm\bin\Debug\ProcessHelper.dll
+D:\曲刚交接\安徽对接\trunk\GRPlatForm\bin\Debug\ConsumptionQueue.pdb
+D:\曲刚交接\安徽对接\trunk\GRPlatForm\bin\Debug\HttpModel.pdb
+D:\曲刚交接\安徽对接\trunk\GRPlatForm\bin\Debug\HttpServerLib.pdb
+D:\曲刚交接\安徽对接\trunk\GRPlatForm\bin\Debug\HttpServer.pdb
+D:\曲刚交接\安徽对接\trunk\GRPlatForm\bin\Debug\ProcessHelper.pdb
+D:\曲刚交接\安徽对接\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csprojResolveAssemblyReference.cache
+D:\曲刚交接\安徽对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlay.resources
+D:\曲刚交接\安徽对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlayer.resources
+D:\曲刚交接\安徽对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.EBMInfo.resources
+D:\曲刚交接\安徽对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.HttpServerFrom.resources
+D:\曲刚交接\安徽对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.InfoSetForm.resources
+D:\曲刚交接\安徽对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.frmLogin.resources
+D:\曲刚交接\安徽对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.mainForm.resources
+D:\曲刚交接\安徽对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.Properties.Resources.resources
+D:\曲刚交接\安徽对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerForm.resources
+D:\曲刚交接\安徽对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerIPSetForm.resources
+D:\曲刚交接\安徽对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerSetForm.resources
+D:\曲刚交接\安徽对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.TmpFolderSetForm.resources
+D:\曲刚交接\安徽对接\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csproj.GenerateResource.Cache
+E:\GitHub\重庆江津\安徽对接\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe.config
+E:\GitHub\重庆江津\安徽对接\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.exe
+E:\GitHub\重庆江津\安徽对接\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.pdb
+E:\GitHub\重庆江津\江津对接\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe.config
+E:\GitHub\重庆江津\江津对接\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe
+E:\GitHub\重庆江津\江津对接\trunk\GRPlatForm\bin\Debug\HBPlatForm.pdb
+E:\GitHub\重庆江津\江津对接\trunk\GRPlatForm\bin\Debug\ConsumptionQueue.dll
+E:\GitHub\重庆江津\江津对接\trunk\GRPlatForm\bin\Debug\HttpModel.dll
+E:\GitHub\重庆江津\江津对接\trunk\GRPlatForm\bin\Debug\HttpServer.dll
+E:\GitHub\重庆江津\江津对接\trunk\GRPlatForm\bin\Debug\HttpServerLib.dll
+E:\GitHub\重庆江津\江津对接\trunk\GRPlatForm\bin\Debug\ProcessHelper.dll
+E:\GitHub\重庆江津\江津对接\trunk\GRPlatForm\bin\Debug\ConsumptionQueue.pdb
+E:\GitHub\重庆江津\江津对接\trunk\GRPlatForm\bin\Debug\HttpModel.pdb
+E:\GitHub\重庆江津\江津对接\trunk\GRPlatForm\bin\Debug\HttpServerLib.pdb
+E:\GitHub\重庆江津\江津对接\trunk\GRPlatForm\bin\Debug\HttpServer.pdb
+E:\GitHub\重庆江津\江津对接\trunk\GRPlatForm\bin\Debug\ProcessHelper.pdb
+E:\GitHub\重庆江津\江津对接\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csprojResolveAssemblyReference.cache
+E:\GitHub\重庆江津\江津对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlay.resources
+E:\GitHub\重庆江津\江津对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlayer.resources
+E:\GitHub\重庆江津\江津对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.EBMInfo.resources
+E:\GitHub\重庆江津\江津对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.HttpServerFrom.resources
+E:\GitHub\重庆江津\江津对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.InfoSetForm.resources
+E:\GitHub\重庆江津\江津对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.frmLogin.resources
+E:\GitHub\重庆江津\江津对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.mainForm.resources
+E:\GitHub\重庆江津\江津对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.Properties.Resources.resources
+E:\GitHub\重庆江津\江津对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerForm.resources
+E:\GitHub\重庆江津\江津对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerIPSetForm.resources
+E:\GitHub\重庆江津\江津对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerSetForm.resources
+E:\GitHub\重庆江津\江津对接\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.TmpFolderSetForm.resources
+E:\GitHub\重庆江津\江津对接\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csproj.GenerateResource.Cache
+E:\GitHub\重庆江津\江津对接\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.exe
+E:\GitHub\重庆江津\江津对接\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.pdb
+E:\GitHub\重庆江津\江津对接\ChongQingJiangJinDuijie\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe.config
+E:\GitHub\重庆江津\江津对接\ChongQingJiangJinDuijie\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe
+E:\GitHub\重庆江津\江津对接\ChongQingJiangJinDuijie\trunk\GRPlatForm\bin\Debug\HBPlatForm.pdb
+E:\GitHub\重庆江津\江津对接\ChongQingJiangJinDuijie\trunk\GRPlatForm\bin\Debug\ConsumptionQueue.dll
+E:\GitHub\重庆江津\江津对接\ChongQingJiangJinDuijie\trunk\GRPlatForm\bin\Debug\HttpModel.dll
+E:\GitHub\重庆江津\江津对接\ChongQingJiangJinDuijie\trunk\GRPlatForm\bin\Debug\HttpServer.dll
+E:\GitHub\重庆江津\江津对接\ChongQingJiangJinDuijie\trunk\GRPlatForm\bin\Debug\HttpServerLib.dll
+E:\GitHub\重庆江津\江津对接\ChongQingJiangJinDuijie\trunk\GRPlatForm\bin\Debug\ProcessHelper.dll
+E:\GitHub\重庆江津\江津对接\ChongQingJiangJinDuijie\trunk\GRPlatForm\bin\Debug\ConsumptionQueue.pdb
+E:\GitHub\重庆江津\江津对接\ChongQingJiangJinDuijie\trunk\GRPlatForm\bin\Debug\HttpModel.pdb
+E:\GitHub\重庆江津\江津对接\ChongQingJiangJinDuijie\trunk\GRPlatForm\bin\Debug\HttpServerLib.pdb
+E:\GitHub\重庆江津\江津对接\ChongQingJiangJinDuijie\trunk\GRPlatForm\bin\Debug\HttpServer.pdb
+E:\GitHub\重庆江津\江津对接\ChongQingJiangJinDuijie\trunk\GRPlatForm\bin\Debug\ProcessHelper.pdb
+E:\GitHub\重庆江津\江津对接\ChongQingJiangJinDuijie\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csprojResolveAssemblyReference.cache
+E:\GitHub\重庆江津\江津对接\ChongQingJiangJinDuijie\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlay.resources
+E:\GitHub\重庆江津\江津对接\ChongQingJiangJinDuijie\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlayer.resources
+E:\GitHub\重庆江津\江津对接\ChongQingJiangJinDuijie\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.EBMInfo.resources
+E:\GitHub\重庆江津\江津对接\ChongQingJiangJinDuijie\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.HttpServerFrom.resources
+E:\GitHub\重庆江津\江津对接\ChongQingJiangJinDuijie\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.InfoSetForm.resources
+E:\GitHub\重庆江津\江津对接\ChongQingJiangJinDuijie\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.frmLogin.resources
+E:\GitHub\重庆江津\江津对接\ChongQingJiangJinDuijie\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.mainForm.resources
+E:\GitHub\重庆江津\江津对接\ChongQingJiangJinDuijie\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.Properties.Resources.resources
+E:\GitHub\重庆江津\江津对接\ChongQingJiangJinDuijie\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerForm.resources
+E:\GitHub\重庆江津\江津对接\ChongQingJiangJinDuijie\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerIPSetForm.resources
+E:\GitHub\重庆江津\江津对接\ChongQingJiangJinDuijie\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerSetForm.resources
+E:\GitHub\重庆江津\江津对接\ChongQingJiangJinDuijie\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.TmpFolderSetForm.resources
+E:\GitHub\重庆江津\江津对接\ChongQingJiangJinDuijie\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csproj.GenerateResource.Cache
+E:\GitHub\重庆江津\江津对接\ChongQingJiangJinDuijie\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.exe
+E:\GitHub\重庆江津\江津对接\ChongQingJiangJinDuijie\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.pdb
+D:\ProjectDoc\对接软件\MatchPlatform\江津\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe.config
+D:\ProjectDoc\对接软件\MatchPlatform\江津\trunk\GRPlatForm\bin\Debug\HBPlatForm.exe
+D:\ProjectDoc\对接软件\MatchPlatform\江津\trunk\GRPlatForm\bin\Debug\HBPlatForm.pdb
+D:\ProjectDoc\对接软件\MatchPlatform\江津\trunk\GRPlatForm\bin\Debug\ConsumptionQueue.dll
+D:\ProjectDoc\对接软件\MatchPlatform\江津\trunk\GRPlatForm\bin\Debug\HttpModel.dll
+D:\ProjectDoc\对接软件\MatchPlatform\江津\trunk\GRPlatForm\bin\Debug\HttpServer.dll
+D:\ProjectDoc\对接软件\MatchPlatform\江津\trunk\GRPlatForm\bin\Debug\HttpServerLib.dll
+D:\ProjectDoc\对接软件\MatchPlatform\江津\trunk\GRPlatForm\bin\Debug\ProcessHelper.dll
+D:\ProjectDoc\对接软件\MatchPlatform\江津\trunk\GRPlatForm\bin\Debug\ConsumptionQueue.pdb
+D:\ProjectDoc\对接软件\MatchPlatform\江津\trunk\GRPlatForm\bin\Debug\HttpModel.pdb
+D:\ProjectDoc\对接软件\MatchPlatform\江津\trunk\GRPlatForm\bin\Debug\HttpServerLib.pdb
+D:\ProjectDoc\对接软件\MatchPlatform\江津\trunk\GRPlatForm\bin\Debug\HttpServer.pdb
+D:\ProjectDoc\对接软件\MatchPlatform\江津\trunk\GRPlatForm\bin\Debug\ProcessHelper.pdb
+D:\ProjectDoc\对接软件\MatchPlatform\江津\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csprojResolveAssemblyReference.cache
+D:\ProjectDoc\对接软件\MatchPlatform\江津\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlay.resources
+D:\ProjectDoc\对接软件\MatchPlatform\江津\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.AudioPlayer.resources
+D:\ProjectDoc\对接软件\MatchPlatform\江津\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.EBMInfo.resources
+D:\ProjectDoc\对接软件\MatchPlatform\江津\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.HttpServerFrom.resources
+D:\ProjectDoc\对接软件\MatchPlatform\江津\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.InfoSetForm.resources
+D:\ProjectDoc\对接软件\MatchPlatform\江津\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.frmLogin.resources
+D:\ProjectDoc\对接软件\MatchPlatform\江津\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.mainForm.resources
+D:\ProjectDoc\对接软件\MatchPlatform\江津\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.Properties.Resources.resources
+D:\ProjectDoc\对接软件\MatchPlatform\江津\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerForm.resources
+D:\ProjectDoc\对接软件\MatchPlatform\江津\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerIPSetForm.resources
+D:\ProjectDoc\对接软件\MatchPlatform\江津\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.ServerSetForm.resources
+D:\ProjectDoc\对接软件\MatchPlatform\江津\trunk\GRPlatForm\obj\x86\Debug\GRPlatForm.TmpFolderSetForm.resources
+D:\ProjectDoc\对接软件\MatchPlatform\江津\trunk\GRPlatForm\obj\x86\Debug\AHGRPlatForm.csproj.GenerateResource.Cache
+D:\ProjectDoc\对接软件\MatchPlatform\江津\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.exe
+D:\ProjectDoc\对接软件\MatchPlatform\江津\trunk\GRPlatForm\obj\x86\Debug\HBPlatForm.pdb

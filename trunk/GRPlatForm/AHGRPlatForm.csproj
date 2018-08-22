@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4B0410DC-9FA4-4E89-86AD-BEB0AB814578}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GRPlatForm</RootNamespace>
+    <AssemblyName>HBPlatForm</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <PublishUrl>http://localhost/GRPlatForm/</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ProductName>应急消息服务平台</ProductName>
+    <PublisherName>GR</PublisherName>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>EBDIcon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>GRPlatForm.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Apache.NMS">
+      <HintPath>bin\Debug\Apache.NMS.dll</HintPath>
+    </Reference>
+    <Reference Include="Apache.NMS.ActiveMQ">
+      <HintPath>bin\Debug\Apache.NMS.ActiveMQ.dll</HintPath>
+    </Reference>
+    <Reference Include="AxInterop.WMPLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\AxInterop.WMPLib.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Data.v13.2, Version=13.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Program Files (x86)\DevExpress 13.2\Components\Bin\Framework\DevExpress.Data.v13.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Utils.v13.2, Version=13.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Program Files (x86)\DevExpress 13.2\Components\Bin\Framework\DevExpress.Utils.v13.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraBars.v13.2, Version=13.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Program Files (x86)\DevExpress 13.2\Components\Bin\Framework\DevExpress.XtraBars.v13.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraEditors.v13.2, Version=13.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Program Files (x86)\DevExpress 13.2\Components\Bin\Framework\DevExpress.XtraEditors.v13.2.dll</HintPath>
+    </Reference>
+    <Reference Include="ICSharpCode.SharpZipLib, Version=0.86.0.518, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>bin\Debug\ICSharpCode.SharpZipLib.dll</HintPath>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Interop.WMPLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Debug\Interop.WMPLib.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="SharpCompress, Version=0.10.3.0, Culture=neutral, PublicKeyToken=beaf6f427e128133, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\SharpCompress.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AudioMessage\AudioFeedback.cs" />
+    <Compile Include="AudioMessage\AudioHelper.cs" />
+    <Compile Include="AudioMessage\AudioVersion.cs" />
+    <Compile Include="AudioMessage\IAudioHelper.cs" />
+    <Compile Include="AudioMessage\IPlayState.cs" />
+    <Compile Include="AudioMessage\MQAudio\AudioModel.cs" />
+    <Compile Include="AudioMessage\MQAudio\AudioPlayState.cs" />
+    <Compile Include="AudioMessage\MQAudio\MQAudioHelper.cs" />
+    <Compile Include="AudioMessage\MQAudio\MQTextToAudioHelper.cs" />
+    <Compile Include="AudioMessage\SendMQ\MqSendOrder.cs" />
+    <Compile Include="AudioMessage\TarXml\AudioResponseXml.cs" />
+    <Compile Include="AudioPlay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AudioPlay.Designer.cs">
+      <DependentUpon>AudioPlay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AudioPlayer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AudioPlayer.Designer.cs">
+      <DependentUpon>AudioPlayer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CalmCRC.cs" />
+    <Compile Include="ccplayer.cs" />
+    <Compile Include="CommonFunc.cs" />
+    <Compile Include="CoreEvent.cs" />
+    <Compile Include="dbAccess.cs" />
+    <Compile Include="DeviceInfoReport.cs" />
+    <Compile Include="EBD.cs" />
+    <Compile Include="EBM.cs" />
+    <Compile Include="EBMInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EBMInfo.Designer.cs">
+      <DependentUpon>EBMInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EBMStateRequest.cs" />
+    <Compile Include="HttpSendFile.cs" />
+    <Compile Include="HttpServer.cs" />
+    <Compile Include="HttpServerFrom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HttpServerFrom.Designer.cs">
+      <DependentUpon>HttpServerFrom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="increment\IncrementInfo.cs" />
+    <Compile Include="InfoSetForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfoSetForm.Designer.cs">
+      <DependentUpon>InfoSetForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IniFiles.cs" />
+    <Compile Include="LogicalCoding\LogicalHelper.cs" />
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogTrace.cs" />
+    <Compile Include="mainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mainForm.Designer.cs">
+      <DependentUpon>mainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="model\EDB.cs" />
+    <Compile Include="model\EDB_EBRBS.cs" />
+    <Compile Include="model\EnumClass.cs" />
+    <Compile Include="model\FullDelegate.cs" />
+    <Compile Include="model\LogicalModel\LogicalData.cs" />
+    <Compile Include="model\SendInfo.cs" />
+    <Compile Include="model\SendModel\PostModel.cs" />
+    <Compile Include="MQ.cs" />
+    <Compile Include="MQDLL.cs" />
+    <Compile Include="PlatformBRDReport.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="public.cs" />
+    <Compile Include="responseXML.cs" />
+    <Compile Include="SendFileHttpPost.cs" />
+    <Compile Include="SendInfo.cs" />
+    <Compile Include="SendTar\SendTarOrder.cs" />
+    <Compile Include="Serialize.cs" />
+    <Compile Include="ServerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ServerForm.Designer.cs">
+      <DependentUpon>ServerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ServerIPSetForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ServerIPSetForm.Designer.cs">
+      <DependentUpon>ServerIPSetForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ServerSetForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ServerSetForm.Designer.cs">
+      <DependentUpon>ServerSetForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Signature.cs" />
+    <Compile Include="SingletonInfo.cs" />
+    <Compile Include="StructClass.cs" />
+    <Compile Include="TarHelper.cs" />
+    <Compile Include="TmpFolderSetForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TmpFolderSetForm.Designer.cs">
+      <DependentUpon>TmpFolderSetForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="USBPSW.cs" />
+    <Compile Include="XmlSerialize.cs" />
+    <EmbeddedResource Include="AudioPlay.resx">
+      <DependentUpon>AudioPlay.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AudioPlayer.resx">
+      <DependentUpon>AudioPlayer.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EBMInfo.resx">
+      <DependentUpon>EBMInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HttpServerFrom.resx">
+      <DependentUpon>HttpServerFrom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoSetForm.resx">
+      <DependentUpon>InfoSetForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mainForm.resx">
+      <DependentUpon>mainForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <None Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ServerForm.resx">
+      <DependentUpon>ServerForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ServerIPSetForm.resx">
+      <DependentUpon>ServerIPSetForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ServerSetForm.resx">
+      <DependentUpon>ServerSetForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TmpFolderSetForm.resx">
+      <DependentUpon>TmpFolderSetForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Dll\Log.dll" />
+    <Content Include="EBDIcon.ico" />
+    <None Include="Image\timg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 和 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\ConsumptionQueue\ConsumptionQueue.csproj">
+      <Project>{9cbdb2dd-cc30-40b6-9484-412cbc134c21}</Project>
+      <Name>ConsumptionQueue</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HttpModel\HttpModel.csproj">
+      <Project>{a47c82e7-7c5f-4ec1-a988-33f6a0dbb54a}</Project>
+      <Name>HttpModel</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HttpServerLib\HttpServerLib.csproj">
+      <Project>{a277029d-88e6-43f3-a27d-d0ef62a01eec}</Project>
+      <Name>HttpServerLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HttpServer\HttpServer.csproj">
+      <Project>{74ace3e6-1b73-48c4-baad-2c9b2190df56}</Project>
+      <Name>HttpServer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ProcessHelper\ProcessHelper.csproj">
+      <Project>{330ab192-f974-40fa-98b7-994c5eeac6b5}</Project>
+      <Name>ProcessHelper</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
