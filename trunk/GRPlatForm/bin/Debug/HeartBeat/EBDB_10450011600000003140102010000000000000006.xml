@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<EBD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EBDVersion>1.0</EBDVersion>
+  <EBDID>10450011600000003140102010000000000000006</EBDID>
+  <EBDType>EBRDTState</EBDType>
+  <SRC>
+    <EBRID>45001160000000314010201</EBRID>
+    <URL>http://192.168.4.109:7500</URL>
+  </SRC>
+  <EBDTime>2018-08-23 13:40:33</EBDTime>
+  <EBRDTState>
+    <EBRDT>
+      <RptTime>2018-08-23 13:40:33</RptTime>
+      <EBRID>65001160020070314010101</EBRID>
+      <StateCode>5</StateCode>
+      <StateDesc>播发中</StateDesc>
+    </EBRDT>
+    <EBRDT>
+      <RptTime>2018-08-23 13:40:33</RptTime>
+      <EBRID>65001160020070314010102</EBRID>
+      <StateCode>5</StateCode>
+      <StateDesc>播发中</StateDesc>
+    </EBRDT>
+    <EBRDT>
+      <RptTime>2018-08-23 13:40:33</RptTime>
+      <EBRID>65001160020070314010103</EBRID>
+      <StateCode>5</StateCode>
+      <StateDesc>播发中</StateDesc>
+    </EBRDT>
+    <EBRDT>
+      <RptTime>2018-08-23 13:40:33</RptTime>
+      <EBRID>65001160020070314010104</EBRID>
+      <StateCode>5</StateCode>
+      <StateDesc>播发中</StateDesc>
+    </EBRDT>
+    <EBRDT>
+      <RptTime>2018-08-23 13:40:33</RptTime>
+      <EBRID>65001160020070314010105</EBRID>
+      <StateCode>5</StateCode>
+      <StateDesc>播发中</StateDesc>
+    </EBRDT>
+    <EBRDT>
+      <RptTime>2018-08-23 13:40:33</RptTime>
+      <EBRID>65001160020070314010106</EBRID>
+      <StateCode>5</StateCode>
+      <StateDesc>播发中</StateDesc>
+    </EBRDT>
+    <EBRDT>
+      <RptTime>2018-08-23 13:40:33</RptTime>
+      <EBRID>65001160020070314010107</EBRID>
+      <StateCode>5</StateCode>
+      <StateDesc>播发中</StateDesc>
+    </EBRDT>
+    <EBRDT>
+      <RptTime>2018-08-23 13:40:33</RptTime>
+      <EBRID>65001160020070314010108</EBRID>
+      <StateCode>5</StateCode>
+      <StateDesc>播发中</StateDesc>
+    </EBRDT>
+    <EBRDT>
+      <RptTime>2018-08-23 13:40:33</RptTime>
+      <EBRID>65001160020070314010109</EBRID>
+      <StateCode>5</StateCode>
+      <StateDesc>播发中</StateDesc>
+    </EBRDT>
+    <EBRDT>
+      <RptTime>2018-08-23 13:40:33</RptTime>
+      <EBRID>65001160020070314010110</EBRID>
+      <StateCode>5</StateCode>
+      <StateDesc>播发中</StateDesc>
+    </EBRDT>
+    <EBRDT>
+      <RptTime>2018-08-23 13:40:33</RptTime>
+      <EBRID>65001160020070314010111</EBRID>
+      <StateCode>5</StateCode>
+      <StateDesc>播发中</StateDesc>
+    </EBRDT>
+    <EBRDT>
+      <RptTime>2018-08-23 13:40:33</RptTime>
+      <EBRID>65001160020070314010112</EBRID>
+      <StateCode>5</StateCode>
+      <StateDesc>播发中</StateDesc>
+    </EBRDT>
+    <EBRDT>
+      <RptTime>2018-08-23 13:40:33</RptTime>
+      <EBRID>65001160020070314010113</EBRID>
+      <StateCode>5</StateCode>
+      <StateDesc>播发中</StateDesc>
+    </EBRDT>
+    <EBRDT>
+      <RptTime>2018-08-23 13:40:33</RptTime>
+      <EBRID>65001160020070314010114</EBRID>
+      <StateCode>5</StateCode>
+      <StateDesc>播发中</StateDesc>
+    </EBRDT>
+    <EBRDT>
+      <RptTime>2018-08-23 13:40:33</RptTime>
+      <EBRID>65001160020070314010115</EBRID>
+      <StateCode>5</StateCode>
+      <StateDesc>播发中</StateDesc>
+    </EBRDT>
+    <EBRDT>
+      <RptTime>2018-08-23 13:40:33</RptTime>
+      <EBRID>65001160020070314010116</EBRID>
+      <StateCode>5</StateCode>
+      <StateDesc>播发中</StateDesc>
+    </EBRDT>
+    <EBRDT>
+      <RptTime>2018-08-23 13:40:33</RptTime>
+      <EBRID>65001160020070314010117</EBRID>
+      <StateCode>5</StateCode>
+      <StateDesc>播发中</StateDesc>
+    </EBRDT>
+    <EBRDT>
+      <RptTime>2018-08-23 13:40:33</RptTime>
+      <EBRID>65001160020070314010118</EBRID>
+      <StateCode>5</StateCode>
+      <StateDesc>播发中</StateDesc>
+    </EBRDT>
+    <EBRDT>
+      <RptTime>2018-08-23 13:40:33</RptTime>
+      <EBRID>65001160020070314010119</EBRID>
+      <StateCode>5</StateCode>
+      <StateDesc>播发中</StateDesc>
+    </EBRDT>
+    <EBRDT>
+      <RptTime>2018-08-23 13:40:33</RptTime>
+      <EBRID>65001160020780314010101</EBRID>
+      <StateCode>5</StateCode>
+      <StateDesc>播发中</StateDesc>
+    </EBRDT>
+    <EBRDT>
+      <RptTime>2018-08-23 13:40:33</RptTime>
+      <EBRID>65001160020780314010102</EBRID>
+      <StateCode>5</StateCode>
+      <StateDesc>播发中</StateDesc>
+    </EBRDT>
+    <EBRDT>
+      <RptTime>2018-08-23 13:40:33</RptTime>
+      <EBRID>65001160020780314010103</EBRID>
+      <StateCode>5</StateCode>
+      <StateDesc>播发中</StateDesc>
+    </EBRDT>
+    <EBRDT>
+      <RptTime>2018-08-23 13:40:33</RptTime>
+      <EBRID>65001160020780314010104</EBRID>
+      <StateCode>5</StateCode>
+      <StateDesc>播发中</StateDesc>
+    </EBRDT>
+    <EBRDT>
+      <RptTime>2018-08-23 13:40:33</RptTime>
+      <EBRID>65001160020780314010105</EBRID>
+      <StateCode>5</StateCode>
+      <StateDesc>播发中</StateDesc>
+    </EBRDT>
+    <EBRDT>
+      <RptTime>2018-08-23 13:40:33</RptTime>
+      <EBRID>65001160020780314010107</EBRID>
+      <StateCode>5</StateCode>
+      <StateDesc>播发中</StateDesc>
+    </EBRDT>
+    <EBRDT>
+      <RptTime>2018-08-23 13:40:33</RptTime>
+      <EBRID>65001161190010314010101</EBRID>
+      <StateCode>5</StateCode>
+      <StateDesc>播发中</StateDesc>
+    </EBRDT>
+    <EBRDT>
+      <RptTime>2018-08-23 13:40:33</RptTime>
+      <EBRID>65001161010040314010102</EBRID>
+      <StateCode>5</StateCode>
+      <StateDesc>播发中</StateDesc>
+    </EBRDT>
+    <EBRDT>
+      <RptTime>2018-08-23 13:40:33</RptTime>
+      <EBRID>65001161240010314010101</EBRID>
+      <StateCode>5</StateCode>
+      <StateDesc>播发中</StateDesc>
+    </EBRDT>
+    <EBRDT>
+      <RptTime>2018-08-23 13:40:33</RptTime>
+      <EBRID>65001160020070314010402</EBRID>
+      <StateCode>5</StateCode>
+      <StateDesc>播发中</StateDesc>
+    </EBRDT>
+  </EBRDTState>
+</EBD>

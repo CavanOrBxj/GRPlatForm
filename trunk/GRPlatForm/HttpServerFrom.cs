@@ -4206,7 +4206,7 @@ namespace GRPlatForm
                     FindUserInfo("admin");
 
 
-                CheckEBRDTInfo.Enabled = true;
+            //    CheckEBRDTInfo.Enabled = true;
             }
             else
             {
